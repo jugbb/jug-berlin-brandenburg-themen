@@ -42,6 +42,8 @@ Veranstaltungsort
 
 **Adresse**:
 
+**Max. Teilnehmer**:
+
 Referenten
 ----------
 
