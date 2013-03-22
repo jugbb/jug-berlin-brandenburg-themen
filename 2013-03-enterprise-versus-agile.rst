@@ -29,7 +29,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 28.03.2013
 
 **Anfang**: 18:30 Uhr Einlass, 19:00 Uhr Vortragsbeginn
 
