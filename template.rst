@@ -5,26 +5,41 @@ Checkliste
 ----------
 
 **Raum angefragt**:
+
 **Raum bestätigt**:
+
 **Alle Referenten bestätigt**:
+
 **Einladung per XING**:
+
 **Termin im Heise Kalender**:
+
 **Kurztext zu Referenten**:
+
 **Themenbeschreibung**:
+
 **Google-Kalender**:
 
+**Blogeintrag**:
+
+**Folien bekommen**:
+
+**Folien online**:
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
 **Datum**:
+
 **Anfang**:
+
 **Ende**:
 
 Veranstaltungsort
 -----------------
 
 **Bezeichnung**:
+
 **Adresse**:
 
 Referenten
