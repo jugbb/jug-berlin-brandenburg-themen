@@ -20,7 +20,7 @@ Checkliste
 
 **Google-Kalender**:
 
-**Blogeintrag**:
+**Blogeintrag**: ongoing
 
 **Folien bekommen**:
 
@@ -57,8 +57,8 @@ JDK 1.0 – und hat immer noch Spass am Programmieren.
 Thema bzw. Themen
 -----------------
 
-Vaadin 7 & Java EE
-~~~~~~~~~~~~~~~~~~
+Vaadin 7 und Java EE
+~~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Adam Bien
 
 Wie integriert man Java EE 6/7 mit Servlet-basierten Web-Frameworks? Wann
