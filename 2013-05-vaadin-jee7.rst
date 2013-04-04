@@ -18,9 +18,9 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**Blogeintrag**: ongoing
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
