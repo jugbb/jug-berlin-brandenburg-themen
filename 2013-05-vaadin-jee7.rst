@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**:
 
