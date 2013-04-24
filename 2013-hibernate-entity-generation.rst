@@ -4,17 +4,17 @@ HEDL: 100mal effizienter zu JPA-basierten Datenzugriffsschichten
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
 **Einladung per XING**:
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
