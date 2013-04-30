@@ -29,18 +29,18 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 27. Mai 2013
 
-**Anfang**:
+**Anfang**: 18:00 Uhr Einlaß, 18:30 Uhr Vortragsbeginn
 
-**Ende**:
+**Ende**: ca. 20:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: DOAG Dienstleistungen GmbH
 
-**Adresse**:
+**Adresse**: Tempelhofer Weg 64, 12347 Berlin
 
 **Max. Teilnehmer**:
 
