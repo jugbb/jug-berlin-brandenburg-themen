@@ -4,62 +4,74 @@ PLATZHALTER TITEL
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 22.05.2013
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 20:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Jesta Digital GmbH
 
-**Adresse**:
+**Adresse**: Karl-Liebknecht-Str. 32, 10178 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50
 
 Referenten
 ----------
 
-Name I
-~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Eric Hubert
+~~~~~~~~~~~
+Eric ist Software und System Architekt bei der Jesta Digital GmbH und seit über 10 Jahren
+im Bereich der Konzeption und Entwicklung von unternehmenskritischen Anwendungssystemen
+mit Java tätig. Neben den Herausforderungen rund um die bestmögliche Erfüllung
+fachlicher Kundenwünsche reizt ihn seit Jahren vor allem das technisch
+spannende Gebiet der nicht-funktionalen Anforderungen. In diesen Bereich fällt unter
+anderem auch das Antwortzeitverhalten von Anwendungssystemen. Der Vortrag
+beleuchtet einen im Java-Umfeld dabei zu gern ignorierten und
+an Bedeutung gewinnenden Einflussfaktor.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
-~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+How long can you afford to Stop The World?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Eric Hubert**:
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Not yet another GC Tuning presentation... Bei diesem Vortrag soll
+es ganz bewusst einmal nicht darum gehen, im Detail aufzuzeigen, wie
+einige der über 600 Konfigurationsoptionen der Sun/Oracle Hotspot
+JVM dazu genutzt werden können, das Garbage Collection Verhalten zu optimieren.
+Vielmehr soll der Vortrag dazu dienen, nach einer kurzen Auffrischung der
+Grundlagen zur automatischen Speicherverwaltung in Java, die Beschränkungen
+der gängigen JVM Implementierungen aufzuzeigen, bekannte Hacks und Workarounds
+zur Entlastung des Garbage Collectors zu diskutieren sowie gemeinsam einen
+Blick in die Zukunft zu wagen (die alternative JVM Implementierung
+Azul Zing mit ihrem C4 Collector, Storage-Tier Konzepte, etc.).
