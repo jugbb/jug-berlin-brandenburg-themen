@@ -1,4 +1,4 @@
-PLATZHALTER TITEL
+How long can you afford to Stop The World?
 =================
 
 Checkliste
