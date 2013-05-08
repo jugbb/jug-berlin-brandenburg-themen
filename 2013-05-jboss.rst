@@ -1,65 +1,92 @@
-PLATZHALTER TITEL
-=================
+JBoss EAP / Wildfly (aka JBoss AS 7)
+====================================
 
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 30. Mai 2013
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: FU Berlin, Hörsaal der Informatik
 
-**Adresse**:
+**Adresse**: FU Berlin, Hörsaal der Informatik, Takustrasse 9, 14195 Berlin
 
 **Max. Teilnehmer**:
 
 Referenten
 ----------
 
-Name I
-~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Dirk Weil
+~~~~~~~~~
+Dirk Weil ist Geschäftsführer der GEDOPLAN GmbH in Bielefeld. Er ist seit 1998 als Berater
+im Bereich Java und Java EE tätig und arbeitet unter anderem mit JBoss und GlassFish. Er ist
+Autor des Java Magazins, hält Vorträge und leitet Seminare zu zahlreichen Themen.
 
-Name II
+Heinz Wilming
 ~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Heinz Wilming ist Leiter des JBoss Competence Center der akquinet AG. Er beschäftigt sich
+dort mit Technologien und Architekturen für verteilte Anwendungen. Sein Fokus liegt dabei
+auf der Java EE Plattform und Open Source Technologien.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+JBoss AS 7 als Plattform moderner Enterprise-­‐Anwendungen
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Dirk Weil**:
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Zu den „dienstältesten“ Open-Source-Applikationsservern gehört mit JBoss eine Plattform,
+die uns schon seit mehr als 10 Jahren als Basis für Unternehmensanwendung zur
+Verfügung steht. Für die Version 7 wurde der Server in weiten Teilen neu implementiert.
+Das Ergebnis kann sich sehen lassen: Eine übersichtlichere Struktur, erstaunliche
+Startzeiten, geringerer Ressourcenverbrauch und betriebstaugliche Administrationswerkzeuge
+sind einige der Neuerungen. Der eher auf die Softwareentwicklung fokussierte Betriebsmodus
+früherer JBoss-Versionen wurde zudem um den Domain Mode ergänzt, der administrative Belange
+besser berücksichtigt und den Server in professionelle Betriebsumgebungen einbindet.
+Der Vortrag gibt einen Überblick über die Struktur des JBoss AS 7 und zeigt seinen
+Funktionsumfang anhand einiger Praxisbeispiele.
+
+Hochverfügbarkeit mit der Enterprise Application Platform (EAP)
+~~~~~~~~~~~~~~~~~~~
+**Heinz Wilming**:
+
+Die Enterprise Application Platform (und das Upstream Projekt Wildfly aka JBoss AS 7)
+enthält ausgereifte Technologien um kritische Java EE Anwendungen Hochverfügbar auf
+Ebene der Middleware zu betreiben. Die enthaltenen Profile sind bereits für kleinere
+Cluster Topologien entsprechend konfiguriert. Mit dem Domain Mode des Applikationsservers
+lassen sich mehrere Server Instanzen komfortabel verwalten. Jedoch birgt ein Cluster
+eine hohe Komplexität, die Detailkenntnisse der grundlegenden Technologien wie
+JGroups und Infinispan erfordern. Im Vortrag werden die grundlegenden Konzepte beleuchtet
+und während des Vortrages wird gezeigt wie ein Cluster im Domain Mode mit dem
+JBoss Applicationserver betrieben werden kann.
