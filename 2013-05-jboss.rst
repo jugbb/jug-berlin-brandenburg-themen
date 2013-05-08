@@ -42,7 +42,7 @@ Veranstaltungsort
 
 **Adresse**: FU Berlin, Hörsaal der Informatik, Takustrasse 9, 14195 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 150
 
 Referenten
 ----------
