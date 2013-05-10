@@ -20,7 +20,7 @@ Checkliste
 
 **Google-Kalender**: offen
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
@@ -62,11 +62,11 @@ auf der Java EE Plattform und Open Source Technologien.
 Thema bzw. Themen
 -----------------
 
-JBoss AS 7 als Plattform moderner Enterprise-­‐Anwendungen
+JBoss AS 7 als Plattform moderner Enterprise‐Anwendungen
 ~~~~~~~~~~~~~~~~~~~
 **Dirk Weil**:
 
-Zu den „dienstältesten“ Open-Source-Applikationsservern gehört mit JBoss eine Plattform,
+Zu den "dienstältesten" Open-Source-Applikationsservern gehört mit JBoss eine Plattform,
 die uns schon seit mehr als 10 Jahren als Basis für Unternehmensanwendung zur
 Verfügung steht. Für die Version 7 wurde der Server in weiten Teilen neu implementiert.
 Das Ergebnis kann sich sehen lassen: Eine übersichtlichere Struktur, erstaunliche
