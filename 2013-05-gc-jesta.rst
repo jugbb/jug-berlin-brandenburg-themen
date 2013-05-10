@@ -12,7 +12,7 @@ Checkliste
 
 **Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: ongoing
 
 **Kurztext zu Referenten**: ok
 
