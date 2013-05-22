@@ -4,11 +4,11 @@ ElasticSearch
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: laufend
+**Alle Referenten bestätigt**: ok
 
 **Einladung per XING**: offen
 
@@ -29,37 +29,47 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 11.06.2013
 
-**Anfang**:
+**Anfang**: 18:30 uhr
 
 **Ende**:
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Groupon GmbH
 
-**Adresse**:
+**Adresse**: Oberwallstraße 6, 10117 Berlin
 
 **Max. Teilnehmer**:
 
 Referenten
 ----------
 
-Name I
+Dr. Halil-Cem Gürsoy
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Dr. Halil-Cem Gürsoy ist als Software Architect bei der adesso AG 
+(http://www.adesso.de) in Dortmund tätig. Sein technologischer 
+Schwerpunkt liegt dabei auf Java Enterprise (JEE, Spring). Er fokusiert 
+sich aktuell auf verteilte Applikationen, vorzugsweise in "der Cloud", 
+sowie die Herausforderungen, die im Zusammenhang mit der Persistenz in 
+solchen Applikationen einhergehen.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Verteiltes Suchen mit ElasticSearch
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Dr. Halil-Cem Gürsoy
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Mit Elasticsearch existiert eine auf Apache Lucene basierende 
+Suchmaschine, die auf eine Anwendung in großen verteilten Systemen 
+optimiert sein möchte. Hierdurch bietet sie sich insbesonderer für 
+Cloud-Szenarien an. In dieser Session erfolgt eine Einführung in diese 
+schemalose und dokumentenorientierte Suchengine, die auf REsT und JSON 
+setzt. Dabei werden auch fortgeschrittene Aspekte wie Sharding oder 
+Routing betrachtet.
+
+
+
