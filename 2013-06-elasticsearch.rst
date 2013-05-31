@@ -10,17 +10,17 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: ongoing
 
-**Kurztext zu Referenten**: offen
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: offen
+**Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
@@ -42,7 +42,7 @@ Veranstaltungsort
 
 **Adresse**: Oberwallstraße 6, 10117 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50
 
 Referenten
 ----------
