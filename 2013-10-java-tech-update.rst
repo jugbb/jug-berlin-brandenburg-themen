@@ -1,4 +1,4 @@
-PLATZHALTER TITEL
+Java Technologie Update
 =================
 
 Checkliste
@@ -18,7 +18,7 @@ Checkliste
 
 **Themenbeschreibung**:
 
-**Google-Kalender**:
+**Google-Kalender**: ongoing
 
 **Blogeintrag**:
 
@@ -29,7 +29,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 10. Oktober 2013
 
 **Anfang**:
 
