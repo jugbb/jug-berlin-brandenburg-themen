@@ -22,9 +22,9 @@ Checkliste
 
 **Blogeintrag**: ok
 
-**Folien bekommen**: offen
+**Folien bekommen**: ok
 
-**Folien online**: offen
+**Folien online**: ok
 
 Zeitpunkt der Veranstaltung
 ---------------------------
