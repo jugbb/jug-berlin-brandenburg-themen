@@ -4,45 +4,45 @@ Neo4J
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: Ongoing
 
 **Raum bestätigt**:
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: Ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: offen
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: offen
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 20.08.2013
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Groupon GmbH
 
-**Adresse**:
+**Adresse**: Oberwallstraße 6, 10117 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50
 
 Referenten
 ----------
