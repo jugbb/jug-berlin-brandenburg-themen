@@ -60,7 +60,7 @@ NoSQL and other events. Stefan enjoys traveling, skiing, and tai chi.
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Graph Databases with Neo4j & Cypher
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Stefan Plantikow
 
