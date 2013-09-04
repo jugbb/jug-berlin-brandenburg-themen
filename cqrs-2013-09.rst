@@ -1,0 +1,91 @@
+CQRS und Event Sourcing
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**: ok
+
+**Alle Referenten bestätigt**: ok
+
+**Einladung per XING**: open
+
+**Termin im Heise Kalender**: open
+
+**Kurztext zu Referenten**: ok
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**: open
+
+**Blogeintrag**: open
+
+**Folien bekommen**: open
+
+**Folien online**: open
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: 11.06.2013
+
+**Anfang**: 18:30 uhr
+
+**Ende**:
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**: Groupon GmbH
+
+**Adresse**: Oberwallstraße 6, 10117 Berlin
+
+**Max. Teilnehmer**: 50
+
+Referenten
+----------
+
+Philip Jander
+~~~~~~
+Philip Jander ist freier Software-Entwickler, IT-Berater und
+Trainer in Münster/Westf. Mit Schwerpunkt auf .net ist er vorrangig
+im Backend-Bereich tätig. Als bekennender Agilist befasst er sich
+gerne mit Softwarearchitekturen für komplexe Anwendungsszenarien
+und mit funktionaler Programmierung.
+Die Erfahrungen aus der Projektarbeit gibt er in Vorträgen und
+Trainings weiter und begleitet Entwicklerteams in Softwareunternehmen
+bei Projekten im und Migrationsvorhaben in das .net Umfeld.
+Mehr Informationen und Kontakt im Xing-Profil
+(http://www.xing.com/profile/Philip_Jander) oder unter http://Jander.IT
+
+Marco Heimeshoff
+~~~~~~~
+Marco Heimeshoff ist leitender Softwareentwickler in Osnabrück.
+Als passionierter Softwarecraftsman und Mitbegründer des SoCraMOB
+tauscht er sich regelmäßig auf OpenSpaces und Konferenzen zu
+funktionalen Softwarearchitekturen und agilen Prinzipien aus.
+Marco ist seit einigen Jahren als Technologieevangelist für
+CQRS und DomainDrivenDesign unterweg und bloggt unter
+http://www.heimeshoff.de. Kontakte zu Xing, Twitter,
+Google+ und Facebook sind auf der Webseite zu finden.
+
+Thema bzw. Themen
+-----------------
+
+CQRS und Event Sourcing
+~~~~~~~~~~~~~~~~~~~
+**Philip Jander, Marco Heimeshoff**:
+
+Das Architekturpattern CQRS erlaubt flexible und schlanke Domänenmodelle mit
+performantem Lesezugriff zu kombinieren. Nebenbei vermeidet es den unnötigen
+Einsatz komplexer ORMs (Hibernate, Entity Framework). Getrennte Modelle für
+die Umsetzung von variablen Geschäftsregeln einerseits und eine performante
+Abfrage von optimiert aufbereiteten Daten andererseits lösen den tiefen
+Konflikt der unterschiedlichen Zielsetzungen von objektorientierter
+Geschäftssoftware und der relationalen Datenhaltung für Reporting und BI.
+
+In einem zweistündigen Vortrag werden Philip und Marco euch in die Welt von
+CQRS und Event Sourcing einführen. Wer das ganze dann selber ausprobieren
+möchte, ist danach herzlich zu einem offenen Workshop eingeladen.
