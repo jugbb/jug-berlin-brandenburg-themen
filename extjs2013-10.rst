@@ -60,7 +60,7 @@ deutschlandweit als JavaScript- und Ext JS-Consultant tätig.
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Die fabelhafte Welt Java(Script)-getriebener Enterprise-WebApps (mit Ext JS)
 ~~~~~~~~~~~~~~~~~~~
 **Aaron Homberg**: Magische JavaScript-Frameworks sprießen aus dem Boden,
 wie die Pilze im Herbstwald. Die HTML5-Frontends der WebApps
