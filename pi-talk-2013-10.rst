@@ -1,0 +1,89 @@
+Fun with JavaFX on embedded
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**: ok
+
+**Alle Referenten bestätigt**: ok
+
+**Einladung per XING**: offen
+
+**Termin im Heise Kalender**: offen
+
+**Kurztext zu Referenten**: ok
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**: offen
+
+**Blogeintrag**: offen
+
+**Folien bekommen**: offen
+
+**Folien online**: offen
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: Freitag, den 18.10.2013
+
+**Anfang**: Beginn 18:30; Einlass ab 18:00 Uhr
+
+**Ende**: 20:00 Uhr
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**: Hypoport AG
+
+**Adresse**: Klosterstr. 71, 10179 Berlin
+
+**Max. Teilnehmer**:
+
+Referenten
+----------
+
+Gerrit Grunwald
+~~~~~~
+Gerrit is a software engineer with more than 8 years of experience in software development. He has been involved in Java
+desktop application developments and controls development. His current interests include JavaFX, HTML5 and Swing especially
+development of custom controls in one of these technologies. He is also interested in Java-driven embedded technologies
+like Raspberry Pi and BeagleBoard. He is a true believer in open source and has participated in popular projects like JFXtras
+as well as his own projects (SteelSeries Swing, SteelSeries Canvas, Enzo, FXGConverter). As a Java Champion he is an active
+member of the Java community, where he founded and lead the Java User Group Münster (Germany) and co leads the JavaFX community.
+He is an international speaker at conferences and user groups.
+
+
+Thema bzw. Themen
+-----------------
+
+Titel des 1. Themas
+~~~~~~~~~~~~~~~~~~~
+**Sprecher**: Gerrit Grunwald
+
+Die Themen Java on embedded und JavaFX gehörten dieses Jahr zu den dominierenden Themen auf der JavaOne.
+Für viele haben sie aber zunächst wenig Relevanz in der täglichen Arbeit. Trotzdem ist faszinierend, was sich mit
+diesem Stack realisieren lässt. Auf jeden Fall macht es Spaß.
+
+Dies ist die erste von zwei Veranstaltungen, die am 18. und 19.10. zu diesen Themen bei Hypoport in Kooperation mit
+der JUG Berlin-Brandenburg stattfinden. Im Rahmen dieser Abendveranstaltung wird Gerrit Grunwald verschiedene
+Projekte zu dem Thema vorstellen. Am darauf folgenden Samstag findet dann ein ganztägiger Hackathon statt.
+[Link zur Hackathon-Einladung]
+
+Alle Teilnehmer des Hackathons sind zu dieser Abendveranstaltung eingeladen, um sich inspirieren zu lassen und um
+eigene Ideen im Anschluss an Gerrits Talk zu pitchen. Alle anderen erwartet einfach nur ein toller Talk.
+
+
+Talk
+
+Usually Java developers do not create code for embedded devices because there was no good Java support on these devices.
+Oracle figured out that there is a huge market for embedded devices and decided to support Java and JavaFX on hardware
+like the very popular Raspberry Pi and the BeagleBoard xM. With Java technology available on these platforms it's very
+interesting to see what you can do with this. This session will give you a short overview on the available technologies
+and will explain the interaction between different technologies and where they make sense. As an example a temperature
+monitoring application will be shown using JavaFX on a Raspberry Pi, a BeagleBoard xM and on the Desktop. In addition a
+little HTML5 page for mobile will be presented too.
