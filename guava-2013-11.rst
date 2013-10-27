@@ -1,4 +1,4 @@
-Google Guava
+Guava - Kleine Helferlein für jedes Projekt
 =================
 
 Checkliste
@@ -18,13 +18,13 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
-**Folien bekommen**: offen
+**Folien bekommen**: Live-Coding
 
-**Folien online**: offen
+**Folien online**: Live-Coding
 
 Zeitpunkt der Veranstaltung
 ---------------------------
