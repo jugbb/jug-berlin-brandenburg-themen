@@ -53,16 +53,38 @@ Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Wolfgang Weigend
 ~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Wolfgang Weigend, Systemberater für die Oracle Fusion Middleware
+bei der Oracle Deutschland B.V. & Co. KG, zuständig für Architektur,
+Java Technologie und strategischen Produkteinsatz bei Großkunden,
+verfügt über langjährige Erfahrung in der Systemberatung und
+im Bereich objektorientierter Softwareentwicklung. Davor war er
+als Principal Systems Engineer 9,5 Jahre bei der BEA Systems
+GmbH für strategische Kunden tätig und koordinierte
+gleichzeitig als Teamleader Systems Engineering alle
+Systemberater in der Central Region Deutschland,
+Österreich und Schweiz.
+Wolfgang Weigend studierte an der FH Darmstadt
+Elektrotechnik/Automatisierungstechnik mit dem
+Studienschwerpunkt Datentechnik. Bevor der Diplom-Ingenieur
+1999 zu BEA Systems kam, war er als Systemberater für
+Oracle, Texas Instruments Software und Sun Microsystems tätig.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Aktuelle Oracle GlassFish Strategie
 ~~~~~~~~~~~~~~~~~~~
-**Wolfgang Weigend**:
+**Wolfgang Weigend**: Anfang November 2013 wurde im GlassFish Blog
+"Aquarium" vom
+Produktmanagement mitgeteilt, dass es keine kommerzielle Version für
+GlassFish 4.0 geben wird. Neue und bestehende Kunden erhalten gemäß
+der Oracle "Lifetime Support Policy" weiterhin Support für die
+existierenden kommerziellen Versionen von GlassFish Server 2.1.x und 3.1.x.
+Dazu wird auch die aktuelle GlassFish Server Roadmap dargestellt.
+Weiterhin wird es die GlassFish Open Source Edition geben, die auch
+künftig als Java EE Referenzimplementierung verwendet wird.
 
-Zusammenfassung
+
 
 Titel des 2. Themas
 ~~~~~~~~~~~~~~~~~~~
