@@ -86,8 +86,15 @@ künftig als Java EE Referenzimplementierung verwendet wird.
 
 
 
-Titel des 2. Themas
+What’s new in Java EE 7?
 ~~~~~~~~~~~~~~~~~~~
-**Dirk Weil**:
-
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+**Dirk Weil**: Dirk Weil ist seit 1998 als Berater im Bereich Java
+tätig. Als fachlicher Leiter von IPS Java Advanced Training
+(http://www.ips-it-schulungen.de/Kurse/Java/) und Geschäftsführer
+der GEDOPLAN GmbH in Bielefeld ist er für die Konzeption und
+Realisierung von Informationssystemen auf Basis von Java EE
+verantwortlich. Seine langjährige Erfahrung in der Entwicklung
+anspruchsvoller Unternehmenslösungen machen ihn zu einem
+kompetenten Ansprechpartner und anerkannten Experten auf dem Gebiet
+Java EE. Er ist Autor in Fachmagazinen, hält Vorträge und
+leitet Seminare und Workshops aus einem eigenen Java-Curriculum.
