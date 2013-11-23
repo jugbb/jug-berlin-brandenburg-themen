@@ -12,15 +12,15 @@ Checkliste
 
 **Einladung per XING**: offen
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: ok
 
 **Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
@@ -49,7 +49,16 @@ Referenten
 
 Dirk Weil
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Dirk Weil ist seit 1998 als Berater im Bereich Java
+tätig. Als fachlicher Leiter von IPS Java Advanced Training
+(http://www.ips-it-schulungen.de/Kurse/Java/) und Geschäftsführer
+der GEDOPLAN GmbH in Bielefeld ist er für die Konzeption und
+Realisierung von Informationssystemen auf Basis von Java EE
+verantwortlich. Seine langjährige Erfahrung in der Entwicklung
+anspruchsvoller Unternehmenslösungen machen ihn zu einem
+kompetenten Ansprechpartner und anerkannten Experten auf dem Gebiet
+Java EE. Er ist Autor in Fachmagazinen, hält Vorträge und
+leitet Seminare und Workshops aus einem eigenen Java-Curriculum.
 
 Wolfgang Weigend
 ~~~~~~~
@@ -88,13 +97,6 @@ künftig als Java EE Referenzimplementierung verwendet wird.
 
 What’s new in Java EE 7?
 ~~~~~~~~~~~~~~~~~~~
-**Dirk Weil**: Dirk Weil ist seit 1998 als Berater im Bereich Java
-tätig. Als fachlicher Leiter von IPS Java Advanced Training
-(http://www.ips-it-schulungen.de/Kurse/Java/) und Geschäftsführer
-der GEDOPLAN GmbH in Bielefeld ist er für die Konzeption und
-Realisierung von Informationssystemen auf Basis von Java EE
-verantwortlich. Seine langjährige Erfahrung in der Entwicklung
-anspruchsvoller Unternehmenslösungen machen ihn zu einem
-kompetenten Ansprechpartner und anerkannten Experten auf dem Gebiet
-Java EE. Er ist Autor in Fachmagazinen, hält Vorträge und
-leitet Seminare und Workshops aus einem eigenen Java-Curriculum.
+**Dirk Weil**: Ende April wurde die aktuelle Version 7 der Spezifikation Java EE offiziell veröffentlicht. Sie führt die Evolution der Plattform für Unternehmensanwendungen mit vielen interessanten Neuerungen weiter.
+
+               Dirk Weil zeigt in seinem Vortrag die wichtigsten neuen Features von JavaServer Faces, CDI und Java Persistence und gibt einen Überblick über weitere Ergänzungen der Plattform.
