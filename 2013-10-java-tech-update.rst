@@ -4,27 +4,27 @@ Java Technologie Update
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: offen
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: offen
 
 **Google-Kalender**: ongoing
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------

@@ -14,9 +14,9 @@ Checkliste
 
 **Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**: ongoing
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: ongoing
+**Themenbeschreibung**: ok
 
 **Google-Kalender**: offen
 
