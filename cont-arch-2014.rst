@@ -18,9 +18,9 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
@@ -47,7 +47,7 @@ Veranstaltungsort
 Referenten
 ----------
 
-Andreas Grabner 
+Andreas Grabner
 ~~~~~~
 Andreas Grabner has 10+ years’ experience as an architect and
 developer in the Java and .NET space. In his current role, Andi works
