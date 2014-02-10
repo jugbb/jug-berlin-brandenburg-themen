@@ -1,65 +1,70 @@
-PLATZHALTER TITEL
+
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 25.02.2014
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Vortragsbeginn
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Acrolinx GmbH
 
-**Adresse**:
+**Adresse**:  Friedrichstraße 100, 10117 Berlin
 
 **Max. Teilnehmer**:
 
 Referenten
 ----------
 
-Name I
+Stefan Kamphausen
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Stefan Kamphausen ist Autor von "Clojure - Grundlagen, Concurrency, 
+Java". Er beschäftigt sich seit mehr als 15 Jahren mit Vertretern 
+der Lisp-Familie und seit 2008 mit Clojure. Er arbeitet in der 
+Entwicklung bei Acrolinx in Berlin.
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Clojure - Lisp für die JVM
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Stefan Kamphausen
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Der Vortrag steigt zügig in Clojure ein, vermittelt dabei auch
+Anfängern notwendiges Verständnis um den ungewohnten Code nachvollziehen
+zu können.  Anhand einer einer minimalistischen Börsensimulation werden
+vor allem die Concurrency-Primitive von Clojure vorgestellt, eine
+einfache Swing-UI rundet den Vortrag ab.
+
