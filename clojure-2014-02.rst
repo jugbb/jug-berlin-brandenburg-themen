@@ -1,4 +1,4 @@
-
+A Glance at Clojure -- Stupid Stock Exchange
 =================
 
 Checkliste
@@ -42,7 +42,7 @@ Veranstaltungsort
 
 **Adresse**:  Friedrichstraße 100, 10117 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50 effektiv
 
 Referenten
 ----------
@@ -58,7 +58,7 @@ Entwicklung bei Acrolinx in Berlin.
 Thema bzw. Themen
 -----------------
 
-Clojure - Lisp für die JVM
+A Glance at Clojure -- Stupid Stock Exchange
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Stefan Kamphausen
 
