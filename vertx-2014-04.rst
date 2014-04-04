@@ -4,9 +4,9 @@ vert.x
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: offen
 
@@ -29,7 +29,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 29. April 2014
 
 **Anfang**:
 
