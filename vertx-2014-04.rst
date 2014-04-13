@@ -8,7 +8,7 @@ Checkliste
 
 **Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: offen
+**Alle Referenten bestätigt**: ok
 
 **Einladung per XING**: offen
 
@@ -31,35 +31,59 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 29. April 2014
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, Vortragsbeginn 19:00 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: ZANOX AG
 
-**Adresse**:
+**Adresse**: Stralauer Allee 2, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50 (hart)
 
 Referenten
 ----------
 
-Name I
-~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Mariam Hakobyan
+~~~~~~~~~~~~~~~
+Mariam Hakobyan is a Senior Software Engineer at 
+Zanox AG with 7 years of expertise, specializing 
+on development of Enterprise, SaaS and IaaS 
+applications using Java, JEE 7, Spring, 
+Hibernate, BPMN etc.
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Sascha Möllering
+~~~~~~~~~~~~~~~~
+Sascha Möllering ist Softwarearchitekt und Senior 
+Software Engineer mit den Schwerpunkten JBoss 
+Middleware, DevOps und Mobile-Development 
+bei der Zanox AG in Berlin. 
+
+Björn Stahl
+~~~~~~~~~~~
+Björn Stahl ist Senior Developer bei der Zanox AG
+und arbeitet dort im Bereich Java EE. Darüber 
+hinaus beschäftigt er sich mit 
+Buildinfrastrukturen, insbesondere mit 
+Maven sowie Nexus und interessiert sich für 
+das Performancetuning von Javaanwendungen.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Production ready Vert.x
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Mariam Hakobyan, Björn Stahl, Sascha Möllering**:
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Vert.x is a lightweight, high performance application 
+platform for the JVM that's designed for modern 
+mobile, web, and enterprise applications. In this 
+talk you will learn how to create elastic, resilient, 
+responsive and event-driven applications based 
+on the principle of Continuous Deployment. We 
+will give you some insights on the problems we 
+had experienced during development so far and how
+we solved them.
