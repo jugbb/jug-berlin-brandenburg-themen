@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**: ok
 
@@ -22,9 +22,9 @@ Checkliste
 
 **Blogeintrag**: ok
 
-**Folien bekommen**: offen
+**Folien bekommen**: nein
 
-**Folien online**: offen
+**Folien online**: nein
 
 Zeitpunkt der Veranstaltung
 ---------------------------
@@ -99,4 +99,4 @@ What’s new in Java EE 7?
 ~~~~~~~~~~~~~~~~~~~
 **Dirk Weil**: Ende April wurde die aktuelle Version 7 der Spezifikation Java EE offiziell veröffentlicht. Sie führt die Evolution der Plattform für Unternehmensanwendungen mit vielen interessanten Neuerungen weiter.
 
-               Dirk Weil zeigt in seinem Vortrag die wichtigsten neuen Features von JavaServer Faces, CDI und Java Persistence und gibt einen Überblick über weitere Ergänzungen der Plattform.
+Dirk Weil zeigt in seinem Vortrag die wichtigsten neuen Features von JavaServer Faces, CDI und Java Persistence und gibt einen Überblick über weitere Ergänzungen der Plattform.
