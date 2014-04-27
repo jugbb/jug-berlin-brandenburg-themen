@@ -1,65 +1,91 @@
-PLATZHALTER TITEL
+Wissenstransfer 2.0: Liest du noch oder programmierst du schon?
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
 **Datum**:
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, Begin 19:00 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: DOAG Dienstleistungen GmbH
 
-**Adresse**:
+**Adresse**: Tempelhofer Weg 64, 6. OG, 12347 Berlin
 
 **Max. Teilnehmer**:
 
 Referenten
 ----------
 
-Name I
+Dr. Marcel Bruch
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Marcel ist Project Lead des Eclipse Code Recommenders Projekt, Mitglied des 
+Eclipse Architecture Councils, CEO und Gründer der Codetrails UG und 
+Eclipse Trainer. Sein Ziel ist Softwareentwickler effizienter bei 
+ihrer Arbeit zu unterstützen und mit Hilfe der 
+Big (Software Development) Data unsere IDEs und 
+Entwicklungsprozesse intelligenter zu machen.
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Wissenstransfer 2.0: Liest du noch oder programmierst du schon?
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Dr. Marcel Bruch**: Softwareentwickler verbringen im Schnitt 40% 
+ihrer Zeit mit dem Lesen und Navigieren im Quellcode. Beim Bugfixing 
+steigen diese Aufwände auch schnell mal auf 60-90% an. Die 
+Ursachen hierfür sind vielfältig: Zum einen greifen 
+Softwareprojekte bei der Entwicklung verstärkt auf immer neue 
+Frameworks zurück, deren Handhabung die Entwickler erst einmal 
+erlernen müssen. Zum anderen wird das Entwicklerteam nach der 
+Fertigstellung des Produkts oft durch ein "Maintenance Team" 
+ausgetauscht, das ebenfalls alle verwendeten Frameworks erlernen,
+aber zusätzlich auch noch den Code der Kollegen verstehen muss.
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Moderne Entwicklungsumgebungen helfen hier nur wenig - dabei 
+wäre es ein Leichtes, Softwareentwickler und Maintenance Teams 
+bei ihrer Arbeit zu unterstützen. Denn vieles, was Entwickler 
+wissen müssen, findet sich im Quellcode bereits bestehender 
+Anwendungen wieder und kann mit Hilfe maschineller 
+Lernverfahren aus deren Code extrahiert und in Form von 
+intelligenter Codevervollständung, automatisch gewonnener 
+API-Dokumentation, Codebeispielen und sogar zur Fehlererkennung 
+wieder in die IDE ihrer Entwickler integriert werden. 
+
+Diese Session gibt eine Einführung in das Eclipse Code Recommenders 
+Projekt und zeigt, wie Sie ihre Softwareentwicklungsteams noch 
+besser bei ihrer Arbeit unterstützen und so Entwicklungszeit 
+einsparen und ihre Produktqualität erhöhen können.
+
+
