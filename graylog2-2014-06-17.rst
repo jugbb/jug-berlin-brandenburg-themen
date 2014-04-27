@@ -1,0 +1,76 @@
+Log Management mit Graylog2
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**: ok
+
+**Alle Referenten bestätigt**: ok
+
+**Einladung per XING**: offen
+
+**Termin im Heise Kalender**: offen
+
+**Kurztext zu Referenten**: ok
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**: offen
+
+**Blogeintrag**: offen
+
+**Folien bekommen**: offen
+
+**Folien online**: offen
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: 17. Juni 2014
+
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortragsbeginn
+
+**Ende**: 21:00 Uhr
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**: Groupon GmbH
+
+**Adresse**: Oberwallstraße 6, 10117 Berlin
+
+**Max. Teilnehmer**: 50
+
+Referenten
+----------
+
+Lennart Koopmann
+~~~~~~
+Lennart Koopmann hat 2009 Graylog2 als ein Hobby Projekt begonnen und 2012 die TORCH GmbH als Unternehmen dahinter gegründet.  @_lennart
+
+Thema bzw. Themen
+-----------------
+
+Log Management mit Graylog2
+~~~~~~~~~~~~~~~~~~~
+**Sprecher**: Lennart Koopmann
+
+Graylog2 ist ein Open Source Log Management und Daten Analyse 
+System. Daten werden von einem Java Server angenommen, 
+verarbeitet und in ElasticSearch geschrieben.
+
+Ein Web Interface ermöglich es, die gesammelten Daten zu analysieren 
+und zu durchsuchen. Mittels Streams lassen sich Daten in Realtime 
+kategorisieren und beliebige Aktionen bei bestimmten Events ausführen.
+
+In diesem Vortrag zeige ich:
+
+* Architektur und Komponenten von Graylog2
+* Einspeisung von eigenen Daten
+* Durchsuchen und Analysieren der gesammelten Daten
+* Vorstellung der REST APIs an die sich eigene Systeme hängen lassen
+* Einige praktische Anwendungsbeispiele wie z.B. Analyse von Response Zeiten auf Controller/Action Ebene, Syslog Analyse, Alarmierung bei ungewöhnlich vielen Exceptions auf der Plattform, ...
+
