@@ -11,3 +11,6 @@ für die JUG von Anfang April 2014.
 - Android-Entwicklung mit Java 
 
 
+## [Rico Konieczek](https://www.xing.com/profile/Rico_Konieczek)
+
+- http://picketlink.org/
