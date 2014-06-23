@@ -10,9 +10,9 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: open
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: open
+**Termin im Heise Kalender**: ok
 
 **Kurztext zu Referenten**: ok
 
@@ -22,16 +22,16 @@ Checkliste
 
 **Blogeintrag**: ok
 
-**Folien bekommen**: open
+**Folien bekommen**: nicht nachgefragt
 
-**Folien online**: open
+**Folien online**: nicht nachgefragt
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
 **Datum**: 11.06.2013
 
-**Anfang**: 18:30 uhr
+**Anfang**: 18:30 Uhr
 
 **Ende**:
 
