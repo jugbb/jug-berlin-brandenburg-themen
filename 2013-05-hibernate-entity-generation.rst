@@ -10,9 +10,9 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: ok
 
 **Kurztext zu Referenten**: ok
 
@@ -22,9 +22,9 @@ Checkliste
 
 **Blogeintrag**: ok
 
-**Folien bekommen**:
+**Folien bekommen**: nicht gefragt
 
-**Folien online**:
+**Folien online**: nicht gefragt
 
 Zeitpunkt der Veranstaltung
 ---------------------------
