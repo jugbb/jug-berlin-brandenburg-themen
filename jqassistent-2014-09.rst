@@ -4,62 +4,83 @@ PLATZHALTER TITEL
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 23.09.2014
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Deutsche Post E-Post Development GmbH
 
-**Adresse**:
+**Adresse**: Ehrenbergstraße 11-14, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: Geht über Meetup
 
 Referenten
 ----------
 
-Name I
+Dirk Mahler
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Dirk Mahler ist Senior-Consultant bei der buschmais GbR, einem 
+Beratungshaus mit Sitz in Dresden. Der Schwerpunkt seiner mehr als 
+10-jährigen Tätigkeit liegt im Bereich Architektur und Entwicklung von 
+Java-Applikationen im Unternehmensumfeld. Den Fokus setzt er dabei auf 
+die Umsetzung von Lösungen, die im Spannungsfeld zwischen 
+Pragmatismus, Innovation und Nachhaltigkeit liegen. In diesem Rahmen 
+engagiert er sich für die Open-Source-Projekte jQAssistant und 
+eXtended Objects.
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Analyse von Softwaresystemen mit jQAssistant und Neo4j
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Dirk Mahler
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Alle JUnit-Tests müssen Assertions beinhalten. Dependency-Injection 
+darf nur über Konstruktoren erfolgen. Externe Interfaces dürfen nur 
+Primitive oder Immutable-Objekte als Parameter bzw. Rückgabe-Typen 
+deklarieren. OSGi-Bundles dürfen keine Implementierungs-Packages 
+exportieren. Eine UI darf nur Backend-Services des gleichen fachlichen 
+Moduls verwenden.
+
+Wie können Verletzungen solcher Regeln erkannt werden? Wie kann deren 
+Einhaltung im Sinne langfristiger Qualitätssicherung sichergestellt 
+werden?
+
+Der Vortrag präsentiert unter Zuhilfenahme des Open-Source-Werkzeuges 
+„jQAssistant“ ein Vorgehen, welches auf dem Einlesen beliebiger 
+Softwarestrukturen - Maven-Module, Packages, Klassen, Deskriptoren - 
+in eine Graphendatenbank basiert und die gezielte Anreicherung um 
+technische oder fachliche Konzepte ermöglicht. Mittels der gewonnenen 
+Informationen können manuelle oder automatisierte Analysen 
+durchgeführt werden, die die Einhaltung individuell definierter Regeln 
+sicherstellen oder projektspezifische Reports generieren.
