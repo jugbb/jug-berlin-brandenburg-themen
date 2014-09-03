@@ -20,7 +20,7 @@ Checkliste
 
 **Google-Kalender**: offen
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
