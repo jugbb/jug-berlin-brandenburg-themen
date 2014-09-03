@@ -1,4 +1,4 @@
-PLATZHALTER TITEL
+Analyse von Softwaresystemen mit jQAssistant und Neo4j
 =================
 
 Checkliste
