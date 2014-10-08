@@ -10,17 +10,17 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: ok
 
 **Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: offen
 
@@ -38,11 +38,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Deutsche Post E-Post Development GmbH
 
-**Adresse**:
+**Adresse**: Ehrenbergstraße 11-14, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 100
 
 Referenten
 ----------
