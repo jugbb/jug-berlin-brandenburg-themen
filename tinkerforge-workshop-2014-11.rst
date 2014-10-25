@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**: offen
 
@@ -18,7 +18,7 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
 **Blogeintrag**: ok
 
