@@ -4,23 +4,23 @@ Hack-Session zu Lambdas & Streams in Java 8
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: nein
 
-**Kurztext zu Referenten**: offen
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: offen
+**Themenbeschreibung**: ok
 
 **Google-Kalender**: offen
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**: wird nicht nachgefragt
 
@@ -29,20 +29,20 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 6. November 2014
 
-**Anfang**:
+**Anfang**: 17:00 Uhr
 
-**Ende**:
+**Ende**: 20:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Immobilien Scout GmbH
 
-**Adresse**:
+**Adresse**: Andreasstraße 10, 10243 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50
 
 Referenten
 ----------
@@ -67,8 +67,12 @@ darunter JAX und OOP.
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Hack-Session zu Lambdas & Streams in Java 8
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Angelika Langer, Klaus Kreft**:
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Java-Entwickler, die Lust haben, sich frühzeitig mit den Erweiterungen der Sprache (Lambdas) und des Collection-Frameworks (Streams) in Java 8 vertraut zu machen, können an dieser Hack-Session teilnehmen. Die Idee ist, dass alle Teilnehmer ihre Notebooks inklusive JDK 8 Prerelease (Lambda-Compiler) mitbringen und nach einer kurzen Einführung "ins kalte Wasser springen": es soll versucht werden, mit den neuen Mitteln kleinere Programmieraufgaben zu lösen und dabei erste Erfahrungen mit Lambdas bei der Benutzung von Streams zu gewinnen. Mehr Infos auf der Website von Angelika Langer (http://www.angelikalanger.com/Conferences/Abstracts/LambdasHackSession.htm).
+
+Geeignet für: Java-Entwickler mit Interesse an Lambdas und Streams in Java 8 und Freude an "experimenteller" Datenverarbeitung (EDV). Java-Grundkenntnisse vorausgesetzt.
+
+Wichtig: Bitte Notebook und Java 8 mitbringen.
