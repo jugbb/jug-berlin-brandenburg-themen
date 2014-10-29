@@ -4,7 +4,7 @@ PLATZHALTER TITEL
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ongoingx
 
 **Raum bestätigt**:
 
