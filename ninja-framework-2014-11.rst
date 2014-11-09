@@ -4,19 +4,19 @@ PLATZHALTER TITEL
 Checkliste
 ----------
 
-**Raum angefragt**: ongoingx
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ongoing
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
 **Einladung per XING**:
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ongoing
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ongoing
 
 **Google-Kalender**:
 
