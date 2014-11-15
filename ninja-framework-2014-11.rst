@@ -1,5 +1,4 @@
-PLATZHALTER TITEL
-=================
+PLATZHALTER TITEL=================
 
 Checkliste
 ----------
@@ -29,37 +28,34 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 4. Dezember 2014
 
-**Anfang**:
+**Anfang**: 18:30 Einlaß, 19:00 Uhr Vortrag
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Votum AG
 
-**Adresse**:
+**Adresse**: 
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50
 
 Referenten
 ----------
 
-Name I
+Raphael André Bauer
 ~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Thema bzw. Themen
 -----------------
 
 Titel des 1. Themas
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Raphael André Bauer
 
 Zusammenfassung. Zusammenfassung. Zusammenfassung.
