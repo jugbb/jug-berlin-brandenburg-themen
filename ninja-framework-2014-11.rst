@@ -5,21 +5,21 @@ Checkliste
 
 **Raum angefragt**: ok
 
-**Raum bestätigt**: ongoing
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**: ongoing
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: ongoing
+**Themenbeschreibung**: ok
 
 **Google-Kalender**:
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
