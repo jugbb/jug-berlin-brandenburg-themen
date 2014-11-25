@@ -4,7 +4,7 @@ Top Java Performance Mistakes
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ongoing
 
 **Raum bestätigt**:
 
@@ -61,7 +61,7 @@ Top Java Performance Mistakes
 
 Have you ever wondered why your e-Banking system is down yet 
 again for maintenance or what problem it was that caused your 
-check-out to take forever until it terminated with a weird error message?
+check-out to take forever until it terminatqed with a weird error message?
 Misconfigured O/R Mappers causing millions of SQL Queries and "leaking" DB 
 connection leaks, excessive logging that consumes all Disk I/O, memory 
 leaks that bring the JVM to crash every couple of hours or a forgotten XML 
