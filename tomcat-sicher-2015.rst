@@ -4,7 +4,7 @@ Kryptokalypse now - Apache Tomcat aber sicher!
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ongoing 
 
 **Raum bestätigt**:
 
