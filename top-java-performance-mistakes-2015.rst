@@ -4,19 +4,19 @@ Top Java Performance Mistakes
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
 **Google-Kalender**:
 
@@ -31,9 +31,9 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 13. Januar 2015
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Anfang
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
@@ -49,7 +49,16 @@ Referenten
 
 Andreas Grabner
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Andreas Grabner has 15+ years' experience as a tester, architect and developer 
+in the Java, .NET and Web space. Did Performance Testing for Segue 
+Software (later Borland) before he joined Dynatrace for the last 
+7 years. He is a Developer Advocate promoting Best Practices around web 
+performance optimization, application performance and user experience 
+management. You is running the communities for the free tools dynaTrace 
+AJAX Edition and Dynatrace Application Monitoring and User Experience 
+Management. He is a frequent speaker at technology conferences such as 
+Velocity, JAX, Agile Testing Days ... on performance and architecture 
+related topics and regularly publishes articles blogs on blog.dynatrace.com
 
 
 Thema bzw. Themen
