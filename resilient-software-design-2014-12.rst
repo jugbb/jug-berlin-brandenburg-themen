@@ -4,17 +4,17 @@ Resilient Software Design
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
 **Einladung per XING**:
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**:
 
@@ -29,18 +29,18 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 24.02.2015
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Beginn
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Acrolinx GmbH
 
-**Adresse**:
+**Adresse**: Friedrichstraße 100, 10117 Berlin
 
 **Max. Teilnehmer**:
 
@@ -60,8 +60,8 @@ auch im direkten Gespräch.
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Resilient Software Design
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Uwe Friedrichsen
 
 Zusammenfassung. Zusammenfassung. Zusammenfassung.
