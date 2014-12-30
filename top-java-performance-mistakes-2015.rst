@@ -18,9 +18,9 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender** offen:
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -38,9 +38,9 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Díaz & Hilterscheid Unternehmensberatung GmbH
 
-**Adresse**:
+**Adresse**: Kurfürstendamm 179, 10707 Berlin
 
 **Max. Teilnehmer**:
 
