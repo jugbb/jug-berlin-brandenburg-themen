@@ -10,9 +10,9 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: nein
 
 **Kurztext zu Referenten**: ok
 
