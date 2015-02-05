@@ -1,4 +1,4 @@
-Resilient Software Design
+Patterns of Resilience - die Geheimnisse guten Softwaredesigns
 =================
 
 Checkliste
@@ -10,13 +10,13 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per Meetup**: ok
 
 **Termin im Heise Kalender**:
 
 **Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
 **Google-Kalender**:
 
@@ -60,7 +60,7 @@ auch im direkten Gespräch.
 Thema bzw. Themen
 -----------------
 
-Resilient Software Design
+Patterns of Resilience - die Geheimnisse guten Softwaredesigns
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Uwe Friedrichsen
 
