@@ -12,15 +12,15 @@ Checkliste
 
 **Einladung per Meetup**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: ok
 
 **Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
