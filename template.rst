@@ -10,6 +10,8 @@ Checkliste
 
 **Alle Referenten bestätigt**:
 
+**Einladung Meetup**: 
+
 **Einladung per XING**:
 
 **Termin im Heise Kalender**:
