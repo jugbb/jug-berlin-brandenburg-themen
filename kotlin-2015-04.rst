@@ -4,9 +4,9 @@ Kotlin TBD
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing (idealo)
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
@@ -31,14 +31,14 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 16.04.2015
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Einlaß
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: idealo internet GmbH
 
 **Adresse**:
 
@@ -49,10 +49,6 @@ Referenten
 
 Dmitry Jemerov
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Name II
-~~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Thema bzw. Themen
