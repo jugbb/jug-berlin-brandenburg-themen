@@ -1,4 +1,4 @@
-Kotlin TBD
+Programming Kotlin
 =================
 
 Checkliste
@@ -12,15 +12,15 @@ Checkliste
 
 **Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
 **Folien bekommen**:
 
@@ -40,17 +40,38 @@ Veranstaltungsort
 
 **Bezeichnung**: idealo internet GmbH
 
-**Adresse**:
+**Adresse**: 
 
 **Max. Teilnehmer**:
 
 Referenten
 ----------
 
-Dmitry Jemerov
+Dmitry Jemerov 
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Dmitry has been with JetBrains since 2003, working on different
+projects, primarily around the IntelliJ Platform. He was one of 
+the early contributors to Kotlin; in particular, he created the 
+initial version of the Java bytecode generator in the compiler. 
+After spending most of 2014 working at Google, Dmitry is now 
+back at JetBrains and on the Kotlin team, working on the 
+compiler and promoting the language, both internally 
+and outside of the company.
 
-Thema bzw. Themen
+Programming Kotline
 -----------------
+Kotlin is a new programming language currently in development 
+at JetBrains, targeting the JVM and JavaScript platforms. Kotlin's 
+design is heavily focused on pragmatism and interoperability, 
+providing an alternative to Java which is more safe, concise 
+and productive, while maintaining the same performance and 
+tooling quality.
+
+At JetBrains, we've been using Kotlin for a while now, 
+both for the development of the language itself and for 
+other projects, and we've already gained a significant amount 
+of experience with it. In this talk, I will introduce the 
+key features of Kotlin, in light of that experience: showing 
+how Kotlin helps you improve your the day-to-day development 
+experience and the design of the code that you write.
 
