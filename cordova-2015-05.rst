@@ -1,16 +1,16 @@
-Apache Cordova
+Enterprise Java goes Mobile
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: 
+**Einladung Meetup**: offen
 
 **Einladung per XING**:
 
@@ -20,9 +20,9 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -33,16 +33,16 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 18.05.2015
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, Begin 19:00
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Votum AG
 
-**Adresse**:
+**Adresse**: Ohlauer Straße 43, 10999 Berlin
 
 **Max. Teilnehmer**:
 
