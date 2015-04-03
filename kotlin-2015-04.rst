@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**: offen
+**Einladung per Meetup**: ok
 
 **Termin im Heise Kalender**: offen
 
@@ -18,9 +18,9 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -40,9 +40,9 @@ Veranstaltungsort
 
 **Bezeichnung**: idealo internet GmbH
 
-**Adresse**: 
+**Adresse**: Ritterstraße 11, 10969 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 60
 
 Referenten
 ----------
@@ -58,7 +58,7 @@ back at JetBrains and on the Kotlin team, working on the
 compiler and promoting the language, both internally 
 and outside of the company.
 
-Programming Kotline
+Programming Kotlin
 -----------------
 Kotlin is a new programming language currently in development 
 at JetBrains, targeting the JVM and JavaScript platforms. Kotlin's 
