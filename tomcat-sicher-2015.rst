@@ -51,7 +51,8 @@ Frank Pientka
 ~~~~~~
 Frank Pientka arbeitet als Dipl.-Informatiker (TH Karlsruhe) 
 bei der MATERNA GmbH in Dortmund. Als Software Architect 
-sorgt er für mehr Qualität in der Software und kümmert sich, als Gründungsmitglied des iSAQB, um eine verbesserte Ausbildung 
+sorgt er für mehr Qualität in der Software und kümmert sich, als
+Gründungsmitglied des iSAQB, um eine verbesserte Ausbildung
 und Zertifizierung von Architekten. Seit mehr als zwei Jahrzehnten
 unterstützt er Firmen bei der Umsetzung tragfähiger 
 Software-Architekturen auf Basis von Java EE.
