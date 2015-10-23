@@ -40,11 +40,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Restaurant Marcello
 
-**Adresse**:
+**Adresse**: Fritz-Reuter-Straße 7, 10827-Berlin Schöneberg
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 35
 
 Referenten
 ----------
