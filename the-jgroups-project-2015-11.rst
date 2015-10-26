@@ -59,7 +59,20 @@ Bio
 
 Galder Zamarreño
 ~~~~~~
-Bio
+Galder Zamarreño is a core R&D engineer at JBoss, a division of Red Hat.
+He is one of the founding engineers of Infinispan, Red Hat's distributed, 
+in-memory key-value store and he currently spends most of his time developing 
+Infinispan's Functional Map API as well as other data grid and caching 
+functionality. He is very keen on functional programming and has been 
+developing Scala since 2009. Galder has previously worked with JBoss 
+customers helping them build highly distributed and massively scalable 
+Application Server clusters based on technologies such as 
+JGroups and JBoss Cache.  Prior to joining Red Hat, Galder worked in the 
+Retail industry where he was a software developer involved in the 
+development of an EFT software switch solution based on JBoss technologies.
+The love for distributed systems and open source software comes from his 
+days at ESIDE faculty at University of Deusto (Bilbao, Spain) where he 
+studied a master's degree in Computer Science.
 
 Bela Ban
 ~~~~~~
