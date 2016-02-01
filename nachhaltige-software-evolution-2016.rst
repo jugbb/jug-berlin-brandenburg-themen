@@ -22,14 +22,14 @@ Checkliste
 
 **Blogeintrag**: ofeen
 
-**Folien bekommen**: offen
+**Folien bekommen**: ok
 
 **Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 14. Januar 2016
+**Datum**: 21. Januar 2016
 
 **Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Beginn
 
