@@ -4,11 +4,11 @@ The jGroups Project
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: offen
+**Alle Referenten bestätigt**: ok
 
 **Einladung Meetup**: offen
 
