@@ -4,13 +4,13 @@ Kryptokalypse now - Apache Tomcat aber sicher!
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing 
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**:
 
@@ -18,29 +18,29 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
-**Folien bekommen**:
+**Folien bekommen**: ok
 
-**Folien online**:
+**Folien online**: ok
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 20. April 2015
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Immobilien Scout GmbH
 
-**Adresse**:
+**Adresse**: Andreasstraße 10, 10243 Berlin
 
 **Max. Teilnehmer**:
 
