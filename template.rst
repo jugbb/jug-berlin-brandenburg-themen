@@ -22,6 +22,8 @@ Checkliste
 
 **Google-Kalender**:
 
+**JaxEnter benachrichtigt**:
+
 **Blogeintrag**:
 
 **Folien bekommen**:
