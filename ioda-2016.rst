@@ -1,0 +1,82 @@
+IODA - Ein Architekturmodell für bessere Evolvierbarkeit
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**: ok
+
+**Alle Referenten bestätigt**: ok
+
+**Einladung Meetup**: ok
+
+**Einladung per XING**:
+
+**Termin im Heise Kalender**: ok
+
+**Kurztext zu Referenten**: ok
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**: ok
+
+**Blogeintrag**: ok
+
+**Folien bekommen**:
+
+**Folien online**:
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: 30. Mai 2016
+
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortrag
+
+**Ende**: 21:00 Uhr
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**: Interhyp AG
+
+**Adresse**: Potsdamer Platz 10, 10785 Berlin
+
+**Max. Teilnehmer**: 50 Personen
+
+Referenten
+----------
+
+Ralf Westphal
+~~~~~~
+Ralf Westphal ist freiberuflicher Berater, Projektbegleiter, Referent,
+Autor und Trainer für Themen rund um Softwarearchitektur und die
+Organisation von Softwareteams. Er ist Mitgründer der Initiative
+Clean Code Developer (CCD) (http://clean-code-developer.de)
+für mehr Softwarequalität,
+propagiert kontinuierliches Lernen (http://ccd-school.de)
+mit der CCD School und möchte mit http://ich-verspreche.org
+zu mehr Zuverlässigkeit motivieren.
+
+Im Netz kann Ralf Westphal unter http://ralfw.de gefunden werden.
+
+
+Thema bzw. Themen
+-----------------
+
+IODA - Ein Architekturmodell für bessere Evolvierbarkeit
+~~~~~~~~~~~~~~~~~~~
+**Sprecher**: Ralf Westphal
+
+Komplexe funktionale Abhängigkeiten sind ein Merkmal von Legacy Code.
+Und das, obwohl es an Architekturmustern wie Schichten, Zwiebeln,
+Hexagonen  nicht mangelt. Der Grund? Diese Muster brauchen solche
+Abhängigkeiten.   Zur Verbesserung der Situation stellt der Vortrag
+eine grundlegende  Alternative für jede Art von Software vor. Sie
+macht Schluss mit funktionalen Abhängigkeiten (oder minimiert
+sie zumindest). Sie ist  orthogonal zu überkommenen Vorstellungen
+inhaltlicher Modularisierung.  Und sie verbindet Objektorientierte
+mit Funktionaler Programmierung.
+
