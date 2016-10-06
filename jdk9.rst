@@ -1,4 +1,4 @@
-Testen wir JDK 9!
+Teste Deine App mit JDK 9!
 =================
 
 Checkliste
