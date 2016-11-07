@@ -53,10 +53,15 @@ Referenten
 
 Johannes Unterstein
 ~~~~~~
-
+Johannes ist Distributed Applications Engineer bei Mesosphere in Hamburg.
+Früher hat er in Projekten für DAX 30-Unternehmen gearbeitet und die
+Welt der Online-Wahlen modernisiert.
 
 Jörg Schad
 ~~~~~~~
+Jörg Schad ist Distributed Systems Engineer bei Mesosphere in Hamburg.
+In seinem früheren Leben entwickelte er verteilte und
+In-Memory-Datenbanken bzw. forschte im Hadoop- und Cloud-Umfeld.
 
 
 Thema bzw. Themen
