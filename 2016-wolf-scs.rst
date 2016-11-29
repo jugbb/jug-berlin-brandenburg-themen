@@ -69,13 +69,13 @@ Self-contained Systems: Microservices-Architekturen mit System
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Eberhard Wolff
 
-Self-contained Systems (SCS, http:///scs-architecture.org) nutzen die
-Ideen von Microservices und teilen Systeme in stark entkoppelte
-Anwendungen auf. So können große, komplexe Anwendungen strukturiert
-werden - aber auch in vielen anderen Szenarien sind die Ansätze sinnvoll
-nutzbar. SCS werden bei Firmen wie Otto, Kaufhof oder Kühne+Nagel
-erfolgreich eingesetzt. Der Workshop erklärt zunächst SCS und zeigt die
-Unterschiede zu Microservices sowie am praktischen Beispiel technische
-Aspekte wie Frontend-Integration. Schließlich entwerfen wir eine
-technische und fachliche Architektur für ein SCS-System.
+
+Microservices sind der aktuelle Hype in der Software-Architektur-Szene.
+Aber einfach nur kleine Dienste entwickeln, ist bei weiterm nicht genug.
+Self-contained Systems (SCS, http:///scs-architecture.org ) fokussieren
+auf einen Architektur-Ansatz, der nicht nur bei großen Systemen mit
+entsprechend komplexer Team-Struktur sinnvoll ist. Mit SCS kann in einem
+solchen Kontext auch langfristig produktiv Software entwickelt
+werden. Der Vortrag erläutert Self-contained Systems, ihre Vor- und
+Nachteile und die Abgrenzung zu Microservices.
 
