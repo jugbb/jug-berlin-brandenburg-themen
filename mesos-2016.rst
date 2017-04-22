@@ -1,12 +1,12 @@
-Arbeitstitel Mesos
+Arbeitstitel Mesos für Java-Entwickler
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
@@ -16,9 +16,9 @@ Checkliste
 
 **Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**: offen
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: offen
+**Themenbeschreibung**: ok
 
 **Google-Kalender**: offen
 
@@ -33,16 +33,16 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 11.1.2017
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 21:30 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: innoZ
 
 **Adresse**:
 
