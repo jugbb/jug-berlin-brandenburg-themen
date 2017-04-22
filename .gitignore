@@ -1,6 +1,7 @@
 *~
 
 # Intellij IDEA Zeug
+/.idea
 *.ipr
 *.iws
 *.iml
