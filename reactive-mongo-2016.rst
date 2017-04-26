@@ -4,67 +4,70 @@ Reactive access to MongoDB with Java 8
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: 
+**Einladung Meetup**: offen
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nein
 
 **Kurztext zu Referenten**: OK
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: OK
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: Oktober????
+**Datum**: 20. September
 
-**Anfang**:
+**Anfang**: 19:00 Uhr, Einlaß ab 18:30
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Hypoport AG
 
-**Adresse**:
+**Adresse**: Klosterstr. 71, 10179 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 100
 
 Referenten
 ----------
 
 Herrmann Hück
 ~~~~~~
-I am Software Developer and Architect for Functional Reactive
-Programming with Scala, Java 8, Akka and Play.
+Herrmann Hück is a Software Developer and Architect
+for Functional Reactive Programming with Scala,
+Java 8, Akka and Play.
 
-In the 90s I was programming C/C++ under Unix and Windows. After a short
-intermezzo as Perl hacker in 2000/2001 I moved to the world of Java
-Enterprise Applications using Servlets, JSP, EJB, Spring and Hibernate
-(since 2001). Since 2014 I am focussing on Scala based Technologies
-(Akka, Play, Spark). Scala taught me a new way of thinking and also
-improved my Java programming skills.
+In the 90s he was programming C/C++ under Unix and Windows. After a short
+intermezzo as Perl hacker in 2000/2001 he moved to the world of Java
+Enterprise Applications using Servlets, JSP, EJB,
+Spring and Hibernate (since 2001).
+Since 2014 he is focussing on Scala based Technologies
+(Akka, Play, Spark). Scala taught him a new way of thinking and also
+improved his Java programming skills.
 
-For more details see my XING profile at:
-https://www.xing.com/profile/Hermann_Hueck
+For more details see his XING profile at
+https://www.xing.com/profile/Hermann_Hueck.
+
 
 
 Thema bzw. Themen
