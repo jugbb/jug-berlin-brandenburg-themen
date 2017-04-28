@@ -53,3 +53,11 @@ Kontakt:
 ## PSI AG
 
 ## Votum GmbH
+
+## Signavio
+
+Kontakt:
+  - Nicolas Peters
+    https://www.xing.com/profile/Nicolas_Peters
+    nicolas.peters@signavio.com
+
