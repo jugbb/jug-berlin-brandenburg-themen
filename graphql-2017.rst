@@ -4,7 +4,7 @@ GraphQL als Alternative zu REST
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: ongoing
 
 **Raum bestätigt**:
 
@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 21. ode 25.09.2017
 
 **Anfang**:
 
@@ -51,19 +51,35 @@ Veranstaltungsort
 Referenten
 ----------
 
-Name I
+Manuel Mauky
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Manuel arbeitet als Softwareentwickler bei der Saxonia Systems AG
+in Görlitz. Er beschäftigt sich mit allen Aspekten der
+Anwendungsentwicklung, wobei der Fokus auf dem Frontend liegt,
+vor allem mit JavaFX und JavaScript. Daneben interessieren ihn Themen
+wie funktionale Programmierung und Softwarearchitektur. Manuel ist
+Gründungsmitglied und Leiter der Java User Group Görlitz.
+
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+GraphQL als Alternative zu REST
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Manuel Mauky
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Für die Abfrage von Daten in Client-Server-Anwendungen sind
+RESTful-Webservices etabliert, allerdings nicht ohne Nachteile.
+Beispielsweise sind oft mehrere Requests nötig, um komplexere
+Daten abzufragen, was vor allem für mobile Anwendungen problematisch
+ist. Eine Alternative zu REST ist GraphQL, eine von Facebook
+entwickelte Abfragesprache für Web-APIs zur Umsetzung der
+Client-Server-Kommunikation. Client-Entwickler formulieren
+ihre Queries in einer JSON-ähnlichen Syntax mit genau den
+Attributen und in der Tiefe, die für die konkrete Ansicht
+nötig sind. GraphQL kümmert sich darum, die Query ohne
+unnötige Server-Roundtrips abzuwickeln.
+
+Im Vortrag wird GraphQL anhand von Beispielen vorgestellt und
+dabei sowohl die Client- als auch Serverseite betrachtet.
