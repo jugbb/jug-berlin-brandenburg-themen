@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: offen
+**Einladung Meetup**: ok
 
 **Einladung per XING**: offen
 
@@ -46,7 +46,7 @@ Veranstaltungsort
 
 **Adresse**: Rotherstr. 19, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50 (Kapazität des Raumes)
 
 Referenten
 ----------
