@@ -4,49 +4,49 @@ GraphQL als Alternative zu REST
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: laufend
+**Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: 
+**Einladung Meetup**: offen
 
-**Einladung per XING**:
+**Einladung per XING**: offen
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: ofen
 
-**Blogeintrag**:
+**Blogeintrag**: offen
 
-**Folien bekommen**:
+**Folien bekommen**: offen
 
-**Folien online**:
+**Folien online**: offen
 
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 21. ode 25.09.2017
+**Datum**: 25.09.2017
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Vortragsbeginn
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Signavio GmbH
 
-**Adresse**:
+**Adresse**: Kurfürstenstr. 111, 10787 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 95, Einladung auf 130 
 
 Referenten
 ----------
