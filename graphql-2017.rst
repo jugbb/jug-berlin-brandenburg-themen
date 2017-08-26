@@ -10,19 +10,19 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: offen
+**Einladung Meetup**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: nein
 
 **Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
-**JaxEnter benachrichtigt**: ofen
+**JaxEnter benachrichtigt**: nein
 
 **Blogeintrag**: offen
 
@@ -46,7 +46,7 @@ Veranstaltungsort
 
 **Adresse**: Kurfürstenstr. 111, 10787 Berlin
 
-**Max. Teilnehmer**: 95, Einladung auf 130 
+**Max. Teilnehmer**: 95, Einladung auf 130
 
 Referenten
 ----------
