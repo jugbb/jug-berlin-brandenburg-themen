@@ -8,9 +8,9 @@ Checkliste
 
 **Raum bestätigt**: offen
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: offen
 
-**Einladung Meetup**: 
+**Einladung Meetup**: offen
 
 **Einladung per XING**: offen
 
@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: Woche vor der WJAX, also vom 30. Oktober bis 2. November
 
 **Anfang**:
 
@@ -52,8 +52,11 @@ Referenten
 ----------
 
 Matthias Wessendorf
-~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+~~~~~~~~~~~~~~~~~~~
+Matthias Weßendorf arbeitet in der Mobile-Sparte von Red Hat,
+wo er das AeroGear-Projekt leitet. Dort setzt er sich primär
+mit den serverseitigen Komponenten von Red Hat Mobile
+auseinander. Twitter: @mwessendorf
 
 
 Thema bzw. Themen
