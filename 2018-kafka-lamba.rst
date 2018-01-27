@@ -55,11 +55,11 @@ Florian Troßbach
 ~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
-https://www.xing.com/profile/Florian_Trossbach?cce=emcc36315d.:z20fKMf3QfRJ0Dv2soVCAB
+Kontaktdaten
+~~~~~~~~~~~~
+florian.trossbach@codecentric.de
+https://www.xing.com/profile/Florian_Trossbach/ 
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Thema bzw. Themen
 -----------------
