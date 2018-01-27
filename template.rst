@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**:
 
-**Einladung Meetup**: 
+**Einladung Meetup**:
 
 **Einladung per XING**:
 
@@ -55,9 +55,17 @@ Name I
 ~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
+Kontaktdaten
+~~~~~~~~~~~~
+Wie?
+
 Name II
 ~~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+
+Kontaktdaten
+~~~~~~~~~~~~
+Wie?
 
 Thema bzw. Themen
 -----------------
