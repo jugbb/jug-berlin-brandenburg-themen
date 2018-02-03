@@ -1,0 +1,67 @@
+PLATZHALTER TITEL
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**: ok
+
+**Alle Referenten bestätigt**: ok
+
+**Einladung Meetup**: 
+
+**Einladung per XING**:
+
+**Termin im Heise Kalender**: offen
+
+**Kurztext zu Referenten**: ok
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**:
+
+**Blogeintrag**: ok
+
+**Folien bekommen**: nicht nachgefragt
+
+**Folien online**: nicht nachgefragt
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: 10. Mai 2016
+
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Veranstaltung
+
+**Ende**:
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**:
+
+**Adresse**:
+
+**Max. Teilnehmer**:
+
+Referenten
+----------
+
+Name I
+~~~~~~
+Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+
+Name II
+~~~~~~~
+Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+
+Thema bzw. Themen
+-----------------
+
+Titel des 1. Themas
+~~~~~~~~~~~~~~~~~~~
+**Sprecher**:
+
+Zusammenfassung. Zusammenfassung. Zusammenfassung.
