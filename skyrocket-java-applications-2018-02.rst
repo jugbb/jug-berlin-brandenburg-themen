@@ -71,7 +71,7 @@ Kontaktdaten
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Skyrocket Java applications with the open-source Apache Ignite
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Akmal Chaudhri
 
