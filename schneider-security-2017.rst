@@ -1,30 +1,30 @@
-GraphQL als Alternative zu REST
+Angriffe auf Java Deserialisierung - die Geister, die ich rief...
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: laufend
+**Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: 
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nein
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: nein
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: nein
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -33,53 +33,53 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 21. oder 25.09.2017
+**Datum**: 13.06.2017
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Anfang
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: innoQ Deutschland GmbH
 
-**Adresse**:
+**Adresse**: Ohlauer Str. 43, Treppenhaus C, 2. OG, 10999 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 60-70
 
 Referenten
 ----------
 
-Manuel Mauky
+Christian Schneider
 ~~~~~~
 
-Manuel arbeitet als Softwareentwickler bei der Saxonia Systems AG
-in Görlitz. Er beschäftigt sich mit allen Aspekten der
-Anwendungsentwicklung, wobei der Fokus auf dem Frontend liegt,
-vor allem mit JavaFX und JavaScript. Daneben interessieren ihn Themen
-wie funktionale Programmierung und Softwarearchitektur. Manuel ist
-Gründungsmitglied und Leiter der Java User Group Görlitz.
-
+Christian Schneider (@cschneider4711) ist als freiberuflicher Whitehat-Hacker
+und Trainer tätig. Er unterstützt seine Kunden im Bereich der Web-Security
+durch Penetration-Tests und Security Architecture Consulting. In dieser
+Rolle führt er regelmäßig Trainings zu den Themen Pentesting, Security
+DevOps sowie Secure Coding durch und bloggt auf
+www.Christian-Schneider.net.
 
 Thema bzw. Themen
 -----------------
 
-GraphQL als Alternative zu REST
+Angriffe auf Java Deserialisierung - die Geister, die ich rief...
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**: Manuel Mauky
+**Sprecher**: Christian Schneider
 
-Für die Abfrage von Daten in Client-Server-Anwendungen sind
-RESTful-Webservices etabliert, allerdings nicht ohne Nachteile.
-Beispielsweise sind oft mehrere Requests nötig, um komplexere
-Daten abzufragen, was vor allem für mobile Anwendungen problematisch
-ist. Eine Alternative zu REST ist GraphQL, eine von Facebook
-entwickelte Abfragesprache für Web-APIs zur Umsetzung der
-Client-Server-Kommunikation. Client-Entwickler formulieren
-ihre Queries in einer JSON-ähnlichen Syntax mit genau den
-Attributen und in der Tiefe, die für die konkrete Ansicht
-nötig sind. GraphQL kümmert sich darum, die Query ohne
-unnötige Server-Roundtrips abzuwickeln.
-
-Im Vortrag wird GraphQL anhand von Beispielen vorgestellt und
-dabei sowohl die Client- als auch Serverseite betrachtet.
+In der letzten Zeit hat sich für so manches Projekt oder manchen
+Softwarehersteller eine scheinbar völlig neue Klasse von kritischen
+Verwundbarkeiten der eigenen Software aufgetan. Objektiv betrachtet
+ist das Thema Remote Code Execution durch Deserialisierung von
+Objekten in der Security-Szene jedoch schon lange ein Thema und
+betrifft weit mehr Sprachen als nur Java. In diesem Talk ordne
+ich die Verwundbarkeit aus Sicht eines Security Professionals und
+Pentesters ein und zeige Ihnen, wie ein solcher Angriff funktioniert
+und warum es ein Problem auf breiterer Basis ist, als nur eine Hand
+voll Bibliotheken betreffend (so wie es leider in manchen Medien
+behandelt wurde). Nachdem wir gemeinsam die Vorgehensweise eines
+Angreifers zur kompletten Übernahme des Applicationservers
+nachvollziehen, werden Sie das eigentliche Problem dahinter verstehen
+und können die abschließend präsentierten Abwehrmaßnahmen besser
+auf Wirkung und Restrisiko einschätzen.
