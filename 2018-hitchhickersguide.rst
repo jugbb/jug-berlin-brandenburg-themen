@@ -42,7 +42,7 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: ImmobilienScout (angedacht)
 
 **Adresse**:
 
