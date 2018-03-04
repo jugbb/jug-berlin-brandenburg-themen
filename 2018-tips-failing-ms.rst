@@ -6,7 +6,7 @@ Checkliste
 
 **Raum angefragt**: offen
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: angefragt
 
 **Alle Referenten bestätigt**: ongoing
 
@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: Mai 2018
 
 **Anfang**:
 
@@ -42,7 +42,7 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Signavio GmbH
 
 **Adresse**:
 
