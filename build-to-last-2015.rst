@@ -20,7 +20,7 @@ Checkliste
 
 **Google-Kalender**:
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -29,7 +29,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 21. Januar 2016
 
 **Anfang**:
 
