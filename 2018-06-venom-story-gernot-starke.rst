@@ -42,11 +42,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: E-Post Development GmbH
 
-**Adresse**:
+**Adresse**: Ehrenbergstr. 11-14, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 100
 
 Referenten
 ----------
