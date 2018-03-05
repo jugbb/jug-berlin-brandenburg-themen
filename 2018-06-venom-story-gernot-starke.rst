@@ -16,9 +16,9 @@ Checkliste
 
 **Termin im Heise Kalender**: offen
 
-**Kurztext zu Referenten**: offen
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**: offen
+**Themenbeschreibung**: ok
 
 **Google-Kalender**: offen
 
@@ -53,7 +53,16 @@ Referenten
 
 Dr. Gernot Starke
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Gernot Starke ist INNOQ-Fellow und hat Informatik in Aachen studiert, über
+Software-Engineering promoviert und besitzt eine Entwicklerseele.
+Aus seiner Feder stammen diverse Bücher zum Thema Softwarearchitektur,
+Patterns und Entwicklungsprozessen.
+Er ist Mitgründer und Betreiber von arc42, dem freien Portal für
+Softwarearchitektur und -dokumentation (arc42.de),
+ausserdem von aim42, der „Architecture Improvement Method“
+(aim42.org). Gernot leitet im International Software Architecture
+Qualification Board (iSAQB.org) die Arbeitsgruppe
+“Foundation and Examination” und lebt mit seiner Familie in Köln.
 
 Kontaktdaten
 ~~~~~~~~~~~~
@@ -62,8 +71,25 @@ gernot.starke@innoq.com
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Bis an den Abgrund - und zurück: Aufstieg, Krise und Rettung eines (gar nicht so) hypothetischen Systems
 ~~~~~~~~~~~~~~~~~~~
 **Sprecher**: Dr. Gernot Starke
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Unser "ganz normales System" (VENOM, "very normal system“) unterstützt
+eCommerce-Prozesse für ziemlich komplizierte Produkte
+(Komplettausstattung von Kaufhäusern und Apotheken, Gartenplanung, Regal- und Möbelplanung und
+ähnliche abgefahrene Dinge) - inklusive kompletter Lieferung, Verzollung, Aufbau,
+Abnahme, Inbetriebnahme....
+
+Das System, über viele Jahre eher hysterisch als historisch gewachsen, wird von einer ziemlich
+desolaten organisierten Firma (SAMM Inc.) entwickelt und betrieben. Es drohte vor einiger Zeit,
+„den Bach herunter“ zu gehen. SAMM Inc. zog die Reißleine, und beauftragte ein Team damit, die
+Rettung von VENOM (und SAMM) vorzubereiten und durchzuführen - „Succeed or die", hieß die Devise.
+
+Diese (überaus fiktive) Situation ist in Wirklichkeit völlig real. Lernen Sie „rise and fall of a system“
+aus der Nähe kennen, sehen Sie die Auswirkungen desaströser Architekturarbeit sowie verkorkster
+Entwicklungs- und Betriebsprozesse. Und dann - erfahren Sie von Maßnahmen, die wirklich helfen könnten
+(oder auch nicht) - und sehen Sie (am realen Beispiel), wie methodische Verbesserung von
+Software(architektur) funktionieren kann.
+
+Disclaimer: Ähnlichkeit mit real existierenden Unternehmen ist rein zufällig.
