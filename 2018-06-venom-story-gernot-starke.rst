@@ -6,7 +6,7 @@ Checkliste
 
 **Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ja
 
@@ -20,11 +20,11 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**: offen
+**Google-Kalender**: ok
 
 **JaxEnter benachrichtigt**: offen
 
-**Blogeintrag**: offen
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
