@@ -10,21 +10,21 @@ Checkliste
 
 **Alle Referenten bestätigt**: FIN
 
-**Einladung Meetup**: offen
+**Einladung Meetup**: FIN
 
-**Einladung per XING**: offen
+**Einladung per XING**: FIN
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: CAN
 
 **Kurztext zu Referenten**: FIN
 
 **Themenbeschreibung**: FIN
 
-**Google-Kalender**: OFFEN
+**Google-Kalender**: FIN
 
-**JaxEnter benachrichtigt**: OFFEN
+**JaxEnter benachrichtigt**: CAN
 
-**Blogeintrag**: OFFEN
+**Blogeintrag**: FIN
 
 **Folien bekommen**:
 
