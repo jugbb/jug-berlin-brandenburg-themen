@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: Mai
 
 **Anfang**:
 
