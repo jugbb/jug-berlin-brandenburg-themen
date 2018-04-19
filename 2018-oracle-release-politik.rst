@@ -4,11 +4,11 @@ Oracles Release-Politik
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**:  ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**: laufend
+**Alle Referenten bestätigt**: ok
 
 **Einladung Meetup**:
 
@@ -16,9 +16,9 @@ Checkliste
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
 **Google-Kalender**:
 
@@ -33,45 +33,67 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: Mai
+**Datum**: 16. Mai 2018
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortragsbeginn
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: adesso AG
 
-**Adresse**:
+**Adresse**: Rotherstr. 19, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 50 (Raumkapazität)
 
 Referenten
 ----------
 
-Name I
+Wolfgang Weigend
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Wolfgang Weigend ist Systemberater für Oracle Fusion Middleware
+bei der Oracle Deutschland B.V. & Co. KG und zuständig für Java-Technologie
+und -Architektur in der Entwickler-Community, sowie dem Einsatz bei Kunden
+und Partnern, verfügt über langjährige Erfahrung in der Systemberatung und
+im Bereich objektorientierter Software-Entwicklung mit Java.
+
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
+Wolfgang Weigend
++49-174 344 3805
+wolfgang.weigend@oracle.com
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Aktuelle und zukünftige Versionen vom Oracle JDK & OpenJDK
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Wolfgang Weigend
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Mit dem neuen JDK-Enhancement-Proposal (JEP 322), wird die zeitbasierte
+Java-Release-Versionierung definiert, die auf dem neuen Java SE
+Version-String-Schema basiert und die Namensgebung für die kommenden
+Versionen der Java SE Plattform und vom JDK vorgibt. Die künftigen
+Java-Releases erscheinen ab dem Jahr 2018 alle 6 Monate als Feature-Release.
+Mit dem zeitlichen Abstand von sechs Monaten bekommen die Entwickler wesentlich
+schneller neue Java-Funktionsmerkmale als dies mit dem bisherigen
+Dreijahreszyklus der Fall war. Zwischen den JDK-Feature-Releases sind
+zwei Updates geplant, bei denen es um die Wartung und Bugfixes geht,
+die wie gewohnt, jeweils im Januar, April, Juli und Oktober eines
+Jahres als Java Critical Patch Update erscheinen werden. Die Planung
+sieht vor, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu
+veröffentlichen, damit der Anwendungsbetrieb eine stabile und ausgereifte
+Java-Basis bekommt, die mit der nachfolgenden Versionierung
+$FEATURE.$INTERIM.$UPDATE.$PATCH gekennzeichnet wird. Das JDK 10
+wurde im März dieses Jahres als aktuelles Feature-Release veröffentlicht.
+Nach sechs Monaten folgt im September 2018 das JDK 11 als
+Long-Term-Support-Release (LTS-Release), welches über den
+Zeitraum von fünf Jahren weitere Java Updates für die Nutzer
+mit Java SE Advanced Support zugänglich macht. Im Vortrag werden
+die Unterschiede vom Oracle JDK zum OpenJDK besprochen, sowie
+Empfehlungen diskutiert, wie die künftige Java-Strategie mit Java
+SE Advanced Support für die Entwickler und für den Anwendungsbetrieb
+aussehen soll.
