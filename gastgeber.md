@@ -12,6 +12,17 @@ Kontakt:
     F +49 30 7262033-99
     M +49 162 2808611
 
+## Akelius GmbH
+
+Akelius GmbH, Erkelenzdamm 11-13,10999 Berlin, Germany
+
+Kontakt:
+  - Gerald Brose
+    - Gerald.Brose@akelius.de
+    - mail@geraldbrose.de 
+  - Thomas Janke 
+    - thomas.janke@akelius.de
+  
 ## idealo internet GmbH
 
 Ritterstraße 11, 10969 Berlin, Deutschland
@@ -47,6 +58,8 @@ Kontakt:
 ## Immobilien Scout GmbH
 
 ## InnoQ
+
+Kontakt über Jörg Müller
 
 ## Interhyp AG
 
