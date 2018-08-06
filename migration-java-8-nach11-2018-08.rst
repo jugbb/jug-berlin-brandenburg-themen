@@ -1,0 +1,82 @@
+Erfahrungsbericht von LucaNet: Migration unserer Anwendung von Java 8 zu Java 11
+=================
+
+Checkliste
+----------
+
+**Raum angefragt**: ok
+
+**Raum bestätigt**:
+
+**Alle Referenten bestätigt**:
+
+**Einladung Meetup**:
+
+**Einladung per XING**:
+
+**Termin im Heise Kalender**:
+
+**Kurztext zu Referenten**:
+
+**Themenbeschreibung**: ok
+
+**Google-Kalender**:
+
+**JaxEnter benachrichtigt**:
+
+**Blogeintrag**:
+
+**Folien bekommen**:
+
+**Folien online**:
+
+Zeitpunkt der Veranstaltung
+---------------------------
+
+**Datum**: 22. August 2018
+
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortrag
+
+**Ende**: 21:00 Uhr
+
+Veranstaltungsort
+-----------------
+
+**Bezeichnung**: LucaNet AG
+
+**Adresse**: Alexanderplatz 1, 10178 Berlin
+
+**Max. Teilnehmer**: 40, Buchung für 60
+
+Referenten
+----------
+
+Name I
+~~~~~~
+Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+
+Kontaktdaten
+~~~~~~~~~~~~
+Wie?
+
+
+Thema bzw. Themen
+-----------------
+
+Erfahrungsbericht von LucaNet: Migration unserer Anwendung von Java 8 zu Java 11
+~~~~~~~~~~~~~~~~~~~
+**Sprecher**: TBD
+
+Ab Januar 2019 hat Oracle den kostenlosen Support für Java 8 eingestellt.
+Als Hersteller einer Anwendungssoftware im Finanzbereich ist LucaNet
+darauf angewiesen seinen Kunden eine vollumfänglich gewartete
+Softwarelösung bereitzustellen.
+Wir haben uns daher dazu entschlossen unsere derzeitig mit Java 8
+laufende Software auf das im Januar 2019 aktuelle Java 11 zu
+migrieren.
+Im Fokus der Migration steht der Wechsel auf das mit Java 9
+eingeführte Modulsystem.
+Die Veranstaltung dient als Erfahrungsaustausch und fasst unsere
+wichtigsten Erkenntnisse für andere Entwickler in Form
+eines Vortrages zusammen, im Anschluss an den Vortrag über
+das Thema offen diskutiert werden.
