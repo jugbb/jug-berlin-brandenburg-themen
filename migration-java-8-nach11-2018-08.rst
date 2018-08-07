@@ -16,7 +16,7 @@ Checkliste
 
 **Termin im Heise Kalender**: nein
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
@@ -51,13 +51,20 @@ Veranstaltungsort
 Referenten
 ----------
 
-Name I
+Kristian Jantz
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Kristian Jantz ist Director Software Development der LucaNet AG und
+gleichzeitig der Teamleiter vom TeamPerform. Zu seinen Hauptaufgaben
+zählen dabei das Verbessern der Antwortzeiten und des
+Speicherbedarfs sowie das Bestimmen der Leistungsfähigkeit der
+LucaNet-Software.
 
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
+
+Marcel Kliemannel
+~~~~~~
+Marcel Kliemannel ist Java Developer bei der LucaNet AG und arbeitet im Team Backend. Eine seiner Hauptaufgaben
+ist momentan die Migration der LucaNet Software nach Java 11.
+
 
 
 Thema bzw. Themen
