@@ -6,15 +6,15 @@ Checkliste
 
 **Raum angefragt**: ok
 
-**Raum bestätigt**:
+**Raum bestätigt**: ok
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**:
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: nein
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nein
 
 **Kurztext zu Referenten**:
 
@@ -24,7 +24,7 @@ Checkliste
 
 **JaxEnter benachrichtigt**:
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
