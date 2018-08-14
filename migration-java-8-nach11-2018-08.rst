@@ -20,7 +20,7 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
 **JaxEnter benachrichtigt**:
 
