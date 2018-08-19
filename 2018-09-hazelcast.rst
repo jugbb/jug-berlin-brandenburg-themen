@@ -4,9 +4,9 @@ HAZELCAST
 Checkliste
 ----------
 
-**Raum angefragt**: ongoing
+**Raum angefragt**: done
 
-**Raum bestätigt**:
+**Raum bestätigt**: done
 
 **Alle Referenten bestätigt**:
 
@@ -33,20 +33,21 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 10. oder 17. September 2018
+**Datum**: 17. September 2018
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 20 Uhr Vortrag
 
 **Ende**:
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**: akelius?
+**Bezeichnung**: Akelius GmbH
 
-**Adresse**:
+**Adresse**: Erkelenzdamm 11-13,10999 Berlin, Germany
 
-**Max. Teilnehmer**:
+
+**Max. Teilnehmer**: 70 im Raum, 110 kündige ich an
 
 Referenten
 ----------
