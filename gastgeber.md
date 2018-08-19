@@ -22,7 +22,19 @@ Kontakt:
     - mail@geraldbrose.de 
   - Thomas Janke 
     - thomas.janke@akelius.de
-  
+
+
+## data experts gmbh
+
+Allee der Kosmonauten 33g, 12681 Berlin
+
+Kapazität: 30-30 Personen
+
+Kontakt:
+ - Michael Weisleder
+   Telefon: +49 (0)30 54708 227
+   E-Mail: 	Roland.Weisleder@data-experts.de
+   
 ## idealo internet GmbH
 
 Ritterstraße 11, 10969 Berlin, Deutschland
