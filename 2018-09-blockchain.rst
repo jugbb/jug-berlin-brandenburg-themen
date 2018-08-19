@@ -51,13 +51,13 @@ Veranstaltungsort
 Referenten
 ----------
 
-Name I
+Georg Köster
 ~~~~~~
 Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
+Mail: mail@georgkoester.de
 
 Name II
 ~~~~~~~
