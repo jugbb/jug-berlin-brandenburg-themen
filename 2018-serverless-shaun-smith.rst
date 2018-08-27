@@ -33,11 +33,11 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 26. September 2018
 
-**Anfang**:
+**Anfang**: 18:30 Uhr
 
-**Ende**:
+**Ende**: 19:00 Uhr
 
 Veranstaltungsort
 -----------------
