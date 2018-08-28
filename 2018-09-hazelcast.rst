@@ -1,4 +1,4 @@
-HAZELCAST
+Streaming Analytics with Hazelcast
 =================
 
 Checkliste
@@ -8,23 +8,25 @@ Checkliste
 
 **Raum bestätigt**: done
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: done
 
-**Einladung Meetup**:
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: done
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: done
 
-**Google-Kalender**:
+**Google-Kalender**: ok
+
+**Tweets geplant**: ok
 
 **JaxEnter benachrichtigt**:
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -35,9 +37,9 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 17. September 2018
 
-**Anfang**: 18:30 Uhr Einlaß, 20 Uhr Vortrag
+**Anfang**: 18:30 Uhr Einlaß, 19 Uhr Vortrag
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
@@ -52,27 +54,42 @@ Veranstaltungsort
 Referenten
 ----------
 
-Name I
+Riaz Mohammed
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Riaz Mohammed, Senior Solutions Architect, Hazelcast, has 15+ years’
+experience in developing high throughput & low latency
+trading systems, surveillance & monitoring systems mainly in
+the Finance sector. He has been part of core development teams
+delivering global sales and trading platforms in
+Tier 1 Investment Banks.
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
+via Chiara Rocci
+Email: chiara@hazelcast.com
+Phone: +44 20 3198 1655
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Streaming Analytics with Hazelcast
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Riaz Mohammed
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+Big data is defined by its size, a huge volume of information to sift
+through to derive insights and aggregations. Fast data is defined
+by its speed, rapidly changing and requiring rapid analysis. What
+happens if you have both? A mass of data but you need quick analysis.
+An overnight batch won’t be good enough here. What we need is to process
+the data as it arrives, before it is stored, to get the earliest
+possible result.
+
+To solve this problem, we’ll take a look at Hazelcast. This is a
+well-known In-Memory Data Grid with a streaming analytics engine known
+as Jet, and both of these are Java based.
+
+We’ll take a look then at the essence of streaming analytics,
+the basics and some theory. Then we’ll dive into the reality, with
+how streaming is implemented. And to show this works, we’ll do some
+demos, simple coding to do powerful real-world tasks, on real-world
+data, in real-time. Live!
