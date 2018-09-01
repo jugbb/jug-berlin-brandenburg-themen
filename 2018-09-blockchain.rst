@@ -1,4 +1,4 @@
-PLATZHALTER TITEL
+Blockchain and Java
 =================
 
 Checkliste
@@ -10,21 +10,21 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**:
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nein
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: OK
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: NEIN
 
-**Blogeintrag**:
+**Blogeintrag**: OK
 
 **Folien bekommen**:
 
@@ -44,34 +44,38 @@ Veranstaltungsort
 
 **Bezeichnung**:
 
-**Adresse**:
+**Adresse**: Delivery Hero, Oranienburger Straße 70, 10117 Berlin Germany
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 80
 
 Referenten
 ----------
 
 Georg Köster
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Georg is topic owner for Blockchain at SAP’s ERP Cloud Platform
+Innovation unit and engineering manager in the LoB Real Estate,
+Georg Koester is on the forefront of enterprise software disruption.
+He has a background in Software Engineering, Business Studies and
+Design Thinking, having graduated from the Hasso-Plattner-Institute of
+Potsdam, Germany, and studied at the Design Thinking Schools in Potsdam
+and Stanford, USA. You can ask him why he considers smart contracts a
+virus that has infected the Blockchain community, and about learning
+Chinese or visiting the Burning Man festival in the US.
 
 Kontaktdaten
 ~~~~~~~~~~~~
 Mail: mail@georgkoester.de
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
 
 Thema bzw. Themen
 -----------------
 
-Titel des 1. Themas
+Blockchain and Java
 ~~~~~~~~~~~~~~~~~~~
-**Sprecher**:
+**Sprecher**: Georg Köster
 
-Zusammenfassung. Zusammenfassung. Zusammenfassung.
+The hype around cryptocurrencies has faded and Blockchain is
+finally considered for bringing trust to data beyond the currency
+ledgers. Let’s look together at the basics using a Java
+implementation and discuss possible use cases in our applications.
