@@ -22,6 +22,12 @@ Kontakt:
     - mail@geraldbrose.de 
   - Thomas Janke 
     - thomas.janke@akelius.de
+    
+## codecentric AG
+
+Kontakt:
+ - Erik Petzold
+   E-Mail: erik.petzold@codecentric.de
 
 
 ## data experts gmbh
