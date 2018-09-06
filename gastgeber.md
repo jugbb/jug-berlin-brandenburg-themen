@@ -49,6 +49,20 @@ Kontakt:
   - Robin Kaluzny, Head of Technology – High Performance Import,
     robin.kaluzny@idealo.de
     https://www.xing.com/profile/Robin_Kaluzny
+    
+    
+## LucaNet AG
+
+Alexanderplatz 1, 10178 Berlin
+
+Raumgröße für 40 Personen
+
+Kontakt:
+  - Björn Stahl
+    BjoernS@lucanet.com
+    Phone: +49 30 469910-0
+    Twitter: @Mr__Steel
+        
 
 ## Europace AG
 
