@@ -40,7 +40,18 @@ Kontakt:
  - Michael Weisleder
    Telefon: +49 (0)30 54708 227
    E-Mail: 	Roland.Weisleder@data-experts.de
-   
+
+## Delivery Hero
+
+Delivery Hero, Oranienburger Straße 70, 10117 Berlin Germany
+
+Raumkapazität: 80
+
+Kontakt:
+  - Lisa Klostermann
+    Mail: lisa.klostermann@deliveryhero.com
+    Mobil: 0173 722 0908
+           
 ## idealo internet GmbH
 
 Ritterstraße 11, 10969 Berlin, Deutschland
