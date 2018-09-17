@@ -1,30 +1,30 @@
-PLATZHALTER TITEL
+Serverless Java: Challenges and Triumphs
 =================
 
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: offen
+**Einladung Meetup**: ok
 
-**Einladung per XING**: offen
+**Einladung per XING**: ok
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nop
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: nop
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
@@ -42,11 +42,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: E-Post Development GmbH
 
-**Adresse**:
+**Adresse**: Ehrenbergstr. 11-14, 10245 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 150
 
 Referenten
 ----------
