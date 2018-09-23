@@ -25,6 +25,10 @@ Kontakt:
     
 ## codecentric AG
 
+codecentric AG, Köpenicker Str 31, 10179 Berlin
+
+Kapazität: 40-50 Leute
+
 Kontakt:
  - Erik Petzold
    E-Mail: erik.petzold@codecentric.de
