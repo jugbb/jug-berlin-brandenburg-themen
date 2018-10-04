@@ -24,6 +24,8 @@ Checkliste
 
 **JaxEnter benachrichtigt**:
 
+**Twitter**:
+
 **Blogeintrag**:
 
 **Folien bekommen**:
