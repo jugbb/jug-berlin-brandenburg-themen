@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 29. oder 30. Januar 2019
 
 **Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr beginn
 
