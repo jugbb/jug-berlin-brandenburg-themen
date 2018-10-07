@@ -108,6 +108,8 @@ Kontakt:
 
 ## InnoQ
 
+innoQ Deutschland GmbH, Ohlauer Str. 43, Treppenhaus C, 2. OG, 10999 Berlin
+
 Kontakt über Jörg Müller
 
 ## Interhyp AG
