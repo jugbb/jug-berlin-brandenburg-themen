@@ -4,9 +4,9 @@ The hitchhiker's guide for the confused developer - Making sense of an increasin
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ja
 
@@ -33,7 +33,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 29. oder 30. Januar 2019
+**Datum**: 30. Januar 2019
 
 **Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr beginn
 
