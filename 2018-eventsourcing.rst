@@ -10,9 +10,9 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: 
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**: nop
 
@@ -20,7 +20,7 @@ Checkliste
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: ok
 
 **JaxEnter benachrichtigt**: nop
 
