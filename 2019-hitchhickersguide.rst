@@ -16,9 +16,9 @@ Checkliste
 
 **Termin im Heise Kalender**:
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ok
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ok
 
 **Google-Kalender**:
 
@@ -42,30 +42,29 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**: ImmobilienScout (angedacht)
+**Bezeichnung**: Europace AG
 
-**Adresse**:
+**Adresse**: Klosterstr. 71, 10179 Berlin
+             https://www.europace.de/
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 150
 
 Referenten
 ----------
 
-Name I
+Uwe Friedrichsen
 ~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
+Uwe Friedrichsen travels the IT world for many years.
+As CTO and fellow of codecentric AG he is always in
+search of innovative ideas and concepts. His current
+focus areas are resilience, scalability and the IT of
+(the day after) tomorrow. Often, you can find him
+on conferences sharing his ideas, or as author of
+articles, blog posts, tweets and more.
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
-
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
+uwe.friedrichsen@codecentric.de
 
 Thema bzw. Themen
 -----------------
