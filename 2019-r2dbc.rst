@@ -4,25 +4,25 @@ Reactive Relational Database Connectivity
 Checkliste
 ----------
 
-**Raum angefragt**: ok
+**Raum angefragt**: laufend (signavio)
 
 **Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**:
+**Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Kurztext zu Referenten**: ok
 
 **Themenbeschreibung**: ok
 
-**Google-Kalender**:
+**Google-Kalender**: offen
 
-**Twitter**:
+**Twitter**: ok
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 
 Zeitpunkt der Veranstaltung
