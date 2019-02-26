@@ -134,3 +134,8 @@ Adresse: Franklinstr. 28-29, 10587 Berlin
 Räumkapazität: ca. 60 Personen
 Ausstattung: Beamer, Samsung TV, HDMI und Netzwerk Anschluss für Laptop, 
 USB Anschluss direkt am PC, Mischpult (Headset-Mikrofon & Handmic)
+
+Kontakt:
+  - Jana Kesenheimer
+    jkesenheimer@testo.de
+    Telefon: +497653681 7256
