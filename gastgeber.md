@@ -97,14 +97,13 @@ Kontakt:
     https://www.xing.com/profile/Danny_Tramnitzke
 
 
-## Deutsche Post E-Post Development GmbH
+## Deutsche Post IT Services (Berlin) GmbH
 
-E-Post Development GmbH, Ehrenbergstr. 11-14, 10245 Berlin
+Deutsche Post IT Services (Berlin) GmbH, Ehrenbergstr. 11-14, 10245 Berlin
 
 Kontakt:
-  - Oliver Fischer
-    o.b.fischer@swe-blog.net
-
+    - neuer Ansprechpartner ist offen
+    
 ## iJUG
 
 ## Immobilien Scout GmbH
