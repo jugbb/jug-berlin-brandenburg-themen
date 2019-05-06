@@ -4,9 +4,9 @@
 Checkliste
 ----------
 
-**Raum angefragt**: offen
+**Raum angefragt**: ok
 
-**Raum bestätigt**: offen
+**Raum bestätigt**: ok
 
 **Alle Referenten bestätigt**: ok
 
@@ -14,7 +14,7 @@ Checkliste
 
 **Einladung per XING**: offen
 
-**Termin im Heise Kalender**: offen
+**Termin im Heise Kalender**: nope
 
 **Kurztext zu Referenten**: ok
 
@@ -22,7 +22,7 @@ Checkliste
 
 **Google-Kalender**: offen
 
-**JaxEnter benachrichtigt**: offen
+**JaxEnter benachrichtigt**: nope
 
 **Twitter**: offen
 
@@ -35,7 +35,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**: 15. Mai 2019
+**Datum**: 3. Juni 2019
 
 **Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortragsbegin
 
@@ -44,11 +44,12 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Europace AG
 
-**Adresse**:
+**Adresse**: Klosterstr. 71, 10179 Berlin
+             https://www.europace.de/
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 150
 
 Referenten
 ----------
