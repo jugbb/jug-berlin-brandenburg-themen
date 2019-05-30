@@ -4,13 +4,13 @@ Introduction to Knative
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: läuft
 
 **Raum bestätigt**:
 
-**Alle Referenten bestätigt**: laufend
+**Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**:
+**Einladung Meetup**: offen
 
 **Einladung per XING**:
 
@@ -22,7 +22,7 @@ Checkliste
 
 **Google-Kalender**:
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: nein
 
 **Twitter**:
 
@@ -44,7 +44,7 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Code Centric oder Akelius
 
 **Adresse**:
 
@@ -64,15 +64,10 @@ Apache Software Foundation.
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
+- matzew@apache.org
+- mwessendorf@gmail.com
+- @mwessendorf
 
-Name II
-~~~~~~~
-Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
-
-Kontaktdaten
-~~~~~~~~~~~~
-Wie?
 
 Thema bzw. Themen
 -----------------
