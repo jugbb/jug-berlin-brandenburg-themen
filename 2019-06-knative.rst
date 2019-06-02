@@ -68,6 +68,18 @@ Kontaktdaten
 - mwessendorf@gmail.com
 - @mwessendorf
 
+Jakub Scholz
+~~~~~~~~~~~~
+Jakub is a Principal Software Engineer in the Red Hat AMQ Streams engineering
+team. He has a long-term experience in messaging and lately focuses mainly
+on Apache Kafka. He is one of the core maintainers of the Strimzi project,
+which delivers several operators and tools for running Apache Kafka
+on Kubernetes and OpenShift.
+
+Kontaktdaten
+~~~~~~~~~~~~
+- Jakub Scholz <jscholz@redhat.com>
+
 
 Thema bzw. Themen
 -----------------
@@ -90,3 +102,19 @@ integration of events and how your application can be hooked up to a
 firehose and connect your service to process incoming events. If you
 are interested in learning about serverless developer experience on
 Kubernetes, this session is for you!
+
+Developing and running Kafka based applications on Kubernetes
+~~~~~~~~~~~~
+**Jakub Scholz**
+
+Apache Kafka is one of the most popular platforms for streaming and
+messaging. This talk will show how easy it is to deploy and use
+Apache Kafka on Kubernetes and OpenShift using the open source
+project called Strimzi. Kubernetes operators provided by Strimzi
+let users deploy Apache Kafka with just few YAML files. It will
+also demonstrate how you can easily connect to Kafka and Strimzi
+from your own applications in a secure fashion using authentication
+and authorisation. The demo used during this talk will include
+several applications using different Apache Kafka components such
+as Kafka Connect or Kafka Streams and demonstrate the architecture
+patterns commonly used with Apache Kafka.
