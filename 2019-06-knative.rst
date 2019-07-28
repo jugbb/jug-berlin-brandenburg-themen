@@ -44,11 +44,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**: Code Centric oder Akelius
+**Bezeichnung**: Akelius GmbH
 
-**Adresse**:
+**Adresse**: Erkelenzdamm 11-13,10999 Berlin, Germany
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 150
 
 Referenten
 ----------
@@ -79,7 +79,7 @@ on Kubernetes and OpenShift.
 Kontaktdaten
 ~~~~~~~~~~~~
 - Jakub Scholz <jscholz@redhat.com>
-
+- @scholzj
 
 Thema bzw. Themen
 -----------------
