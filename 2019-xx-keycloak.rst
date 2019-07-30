@@ -59,7 +59,7 @@ Selbstdarstellung.Selbstdarstellung. Selbstdarstellung.
 
 Kontaktdaten
 ~~~~~~~~~~~~
-Wie?
+Thomas.darimont@gmail.com
 
 Thema bzw. Themen
 -----------------
