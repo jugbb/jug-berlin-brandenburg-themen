@@ -12,7 +12,7 @@ Checkliste
 
 **Einladung Meetup**: ok
 
-**Einladung per XING**:
+**Einladung per XING**: ok
 
 **Termin im Heise Kalender**: wird nicht gemacht
 
@@ -24,9 +24,9 @@ Checkliste
 
 **JaxEnter benachrichtigt**: wird nicht gemacht
 
-**Twitter**: offen
+**Twitter**: ok
 
-**Blogeintrag**:
+**Blogeintrag**: ok
 
 **Folien bekommen**:
 
