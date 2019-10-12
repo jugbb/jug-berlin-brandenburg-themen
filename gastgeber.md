@@ -56,6 +56,18 @@ Kontakt:
     Mail: lisa.klostermann@deliveryhero.com
     Mobil: 0173 722 0908
            
+## diva-e Digital Value Excellence GmbH
+
+https://www.diva-e.com/de/
+
+Kontakt:
+  -  Philipp Thomas
+     philipp.thomas@diva-e.com
+     
+diva-e Digital Value Excellence GmbH
+Friedrichstraße 147
+10117 Berlin
+
 ## idealo internet GmbH
 
 Ritterstraße 11, 10969 Berlin, Deutschland
