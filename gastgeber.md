@@ -138,6 +138,12 @@ Kontakt:
   - Nicolas Peters
     https://www.xing.com/profile/Nicolas_Peters
     nicolas.peters@signavio.com
+    
+## Smava GmbH
+
+Smava GmbH, Palisadenstraße 90, 10243 Berlin
+
+Kontakt über Jörg Müller    
 
 ## Testo SE & Co. KGaA
 
