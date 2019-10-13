@@ -37,18 +37,18 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 7.11.2019
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Anfang des Vortrags
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: Smava GmbH
 
-**Adresse**:
+**Adresse**: Palisadenstraße 90, 10243 Berlin
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: Raumkapazität 100
 
 Referenten
 ----------
