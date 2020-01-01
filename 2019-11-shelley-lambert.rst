@@ -35,7 +35,7 @@ Checkliste
 Zeitpunkt der Veranstaltung
 ---------------------------
 
-**Datum**:
+**Datum**: 1. April 2020
 
 **Anfang**:
 
