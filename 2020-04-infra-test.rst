@@ -4,27 +4,27 @@ Testen von und mit Infrastruktur
 Checkliste
 ----------
 
-**Raum angefragt**:
+**Raum angefragt**: open
 
-**Raum bestätigt**:
+**Raum bestätigt**: open
 
-**Alle Referenten bestätigt**:
+**Alle Referenten bestätigt**: open
 
-**Einladung Meetup**:
+**Einladung Meetup**: open
 
-**Einladung per XING**:
+**Einladung per XING**: open
 
-**Termin im Heise Kalender**:
+**Termin im Heise Kalender**: nein
 
-**Kurztext zu Referenten**:
+**Kurztext zu Referenten**: ja
 
-**Themenbeschreibung**:
+**Themenbeschreibung**: ja
 
-**Google-Kalender**:
+**Google-Kalender**: nein
 
-**JaxEnter benachrichtigt**:
+**JaxEnter benachrichtigt**: nein
 
-**Twitter**:
+**Twitter**: offen
 
 **Blogeintrag**:
 
@@ -37,9 +37,9 @@ Zeitpunkt der Veranstaltung
 
 **Datum**: 1. April 2020
 
-**Anfang**:
+**Anfang**: 18:30 Uhr Einlaß, 19:00 Uhr Vortrag
 
-**Ende**:
+**Ende**: 21:00 Uhr
 
 Veranstaltungsort
 -----------------
