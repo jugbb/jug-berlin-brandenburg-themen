@@ -10,7 +10,7 @@ Checkliste
 
 **Alle Referenten bestätigt**: ok
 
-**Einladung Meetup**: offen
+**Einladung Meetup**: ok
 
 **Einladung per XING**: offen
 
