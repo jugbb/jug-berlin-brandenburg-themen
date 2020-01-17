@@ -44,11 +44,11 @@ Zeitpunkt der Veranstaltung
 Veranstaltungsort
 -----------------
 
-**Bezeichnung**:
+**Bezeichnung**: idealo internet GmbH
 
-**Adresse**:
+**Adresse**: Ritterstraße 11, 10969 Berlin, Deutschland
 
-**Max. Teilnehmer**:
+**Max. Teilnehmer**: 100
 
 Referenten
 ----------
