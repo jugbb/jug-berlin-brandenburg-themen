@@ -26,7 +26,7 @@ Checkliste
 
 **Twitter**: offen
 
-**Blogeintrag**:
+**Blogeintrag**: erledigtƒ
 
 **Folien bekommen**:
 
