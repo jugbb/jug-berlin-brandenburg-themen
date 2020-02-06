@@ -1,0 +1,8 @@
+= Veranstaltungen der Java Usergroup Berlin-Brandenburg
+
+Dieses Repository enhält Organisationsinformationen
+zu den Vorträgen der JUG bis wir angefangen haben Airtable
+zu nutzen.
+
+Auf den letzten Stand vor dem Umstieg kann über den Git-Tag
+`UNTIL_AIRTABLE` zugegriffen werden.
